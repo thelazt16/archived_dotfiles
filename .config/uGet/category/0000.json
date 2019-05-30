@@ -1,0 +1,1322 @@
+{
+	"data": {
+		"relation": {
+			"group": 0,
+			"task": {
+				"priority": 1
+			}
+		},
+		"category": {
+			"hosts": [
+			],
+			"schemes": [
+			],
+			"file-exts": [
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		},
+		"http": {
+			"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+			"redirection-limit": 30
+		},
+		"proxy": {
+			"port": 80,
+			"type": 0
+		},
+		"common": {
+			"name": "Default",
+			"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 4,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		}
+	},
+	"children": [
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 16398670,
+					"total": 16398670,
+					"elapsed": 20,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558980734,
+					"completed-time": 1558980757,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Dropdown Terminals and Scratchpads in i3wm!",
+					"uri": "https:\/\/www.youtube.com\/watch?v=q-l7DnDbiiU",
+					"file": "Dropdown Terminals and Scratchpads in i3wm!_720p.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/Dropdown Terminals and Scratchpads in i3wm!_720p.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/Dropdown Terminals and Scratchpads in i3wm!_720p.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 106284247,
+					"total": 106284247,
+					"elapsed": 233,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558647492,
+					"completed-time": 1558647726,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/meowcloud.net\/?id=eHhydEJwNTZUVnE3eS9PNmRUT2pmdDNNZlFHODVndjlPMVVnQjJLMEF6eWJkbjExa1U1WkFPREM5VVNrRXRmQjRoeS9aRlRzU0xBYXowVGNQdzdGN1E9PQ==",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "720p_KhYUNO_01_itosubs.mp4",
+					"uri": "https:\/\/doc-0k-3c-docs.googleusercontent.com\/docs\/securesc\/ha0ro937gcuc7l7deffksulhg5h7mbp1\/t1piojg3i5on4itnd8bp287as34i62bv\/1558641600000\/11851100483053644519\/*\/1_ed3vlWsPzF3B7cthoSDvu-USWXsu0e_?e=download",
+					"file": "720p_KhYUNO_01_itosubs.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/720p_KhYUNO_01_itosubs.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/720p_KhYUNO_01_itosubs.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 588034236,
+					"total": 588034236,
+					"elapsed": 405,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558338435,
+					"completed-time": 1558338841,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Treasure_Hunters_Part_1.mp4",
+					"uri": "http:\/\/hosei.teamgaki.com\/videos\/18.19Batsu\/Treasure_Hunters_Part_1.mp4?dl",
+					"file": "Treasure_Hunters_Part_1.mp4",
+					"folder": "\/mnt\/01D474713ACAC240\/Gaki no Tsukai\/Download",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D474713ACAC240\/Gaki no Tsukai\/Download\/Treasure_Hunters_Part_1.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D474713ACAC240\/Gaki no Tsukai\/Download\/Treasure_Hunters_Part_1.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 128467847,
+					"total": 128467847,
+					"elapsed": 41,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558120320,
+					"completed-time": 1558120363,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/watch?v=ARKIwOlazKI&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf&index=3",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/FAAEAED.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "i3wm: How To \"Rice\" Your Desktop (3\/3)",
+					"uri": "https:\/\/www.youtube.com\/watch?v=ARKIwOlazKI&list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf&index=3",
+					"file": "i3wm_ How To _Rice_ Your Desktop (3_3)_720p.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/i3wm_ How To _Rice_ Your Desktop (3_3)_720p.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/i3wm_ How To _Rice_ Your Desktop (3_3)_720p.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 59734723,
+					"total": 59734723,
+					"elapsed": 21,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558120302,
+					"completed-time": 1558120325,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/watch?v=8-S0cWnLBKg",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/49412E2.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "i3wm: Configuration (2\/3)",
+					"uri": "https:\/\/www.youtube.com\/watch?v=8-S0cWnLBKg",
+					"file": "i3wm_ Configuration (2_3)_720p.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/i3wm_ Configuration (2_3)_720p.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/i3wm_ Configuration (2_3)_720p.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 26794353,
+					"total": 26794353,
+					"elapsed": 27,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558120291,
+					"completed-time": 1558120321,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/watch?v=j1I63wGcvU4",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/41EFF01E.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "i3wm: Jump Start (1\/3)",
+					"uri": "https:\/\/www.youtube.com\/watch?v=j1I63wGcvU4",
+					"file": "i3wm_ Jump Start (1_3)_720p.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/i3wm_ Jump Start (1_3)_720p.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/i3wm_ Jump Start (1_3)_720p.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 361029463,
+					"total": 361029463,
+					"elapsed": 847,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557730368,
+					"completed-time": 1557731216,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/cat3korean.com\/thailand-18\/love-maker-2012.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/E4BC67.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Love_Maker.2012-DVDRip.x264.AAC.mp4",
+					"uri": "https:\/\/s101vla.storage.yandex.net\/rdisk\/8abe2ccebf5ff3a03cbbf6bf6f4803d661895cb391031cf2aac8177950e00a84\/5cd947e3\/fKqInKw3d7bLFOeFnMGnhCKZBySGVkZCWD9DfDunawEmpq95fVnLslN6P3aqMrqsVO7w4JTmDwNS_ZPmBwgPcRycxhObc8xZs1zRQnVaBVyr8npumZHI4midPdWhecNq?uid=0&filename=Love_Maker.2012-DVDRip.x264.AAC.mp4&disposition=attachment&hash=&limit=0&content_type=video%2Fmp4&fsize=361029463&hid=e100c2f4751dfcbd9c0686e03651d1fd&media_type=video&tknv=v2&etag=9ae868d9c902332a9d65958cd9235133&rtoken=ERACGhh5cUZe&force_default=no&ycrid=na-0980da6c86534f8e80f93d5bcdcbd3c7-downloader9h&ts=588c271277ec0&s=2096a16ab389c4d7e27f5d7c1d7fd144fde411af51c3a79584acc1bf32dd9d8b&pb=U2FsdGVkX19z8VNMtJB3BZ0LWE7XhrKNLe6ho4GRB3YwdyOssNxHm5ryj4Mkxt470JtMMo2MjOKSh_LHEmVjxiB6KkI3uEMbuO3yvRRokeoaByTG7ZJpvelEJj0_3-se",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/Love_Maker.2012-DVDRip.x264.AAC.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 361029463,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/Love_Maker.2012-DVDRip.x264.AAC.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1398213740,
+					"total": 1398213740,
+					"elapsed": 1317,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557252992,
+					"completed-time": 1557254310,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/6D7DBBEF.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Watch RDT-164 2 What Did Ya She Left To Bring Out In A Separate Room Boyfriend Couple Who Came To Karaoke BOX, So Are Trying To Be Naughty In A Private Room",
+					"uri": "https:\/\/www1384.leasewebcdn.me\/token=t5pobyogNNo66hZ0oHuv6g\/1557267276\/114.124.0.0\/26\/8\/7f\/0e31540e098cab12a30339bc144d17f8-720p.mp4",
+					"file": "Watch RDT-164 2 What Did Ya She Left To Bring Out In A Separate Room Boyfriend Couple Who Came To Karaoke BOX, So Are Trying To Be Naughty In A Private Room",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/0e31540e098cab12a30339bc144d17f8-720p.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 1398213740,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/0e31540e098cab12a30339bc144d17f8-720p.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 5669031,
+					"total": 5669031,
+					"elapsed": 145,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556729958,
+					"completed-time": 1556730103,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556729966
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.opendesktop.org\/dl?file_id=1553573012&file_type=application\/x-gzip&file_name=AmigaBurg%20Theme%20Pack%202.0.tar.gz&file_size=5669031&project_id=1176278&link_type=download&is_external=false",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "AmigaBurg Theme Pack 2.0.tar.gz",
+					"uri": "https:\/\/dl.opendesktop.org\/api\/files\/download\/id\/1553573012\/s\/42df70569b9ef9f9f1063ffe2b37b42c7061a69a2887d7ae85246eed0c727c26c464365e53dc389fd3acc78325c80f2c90487227bddd82a17e41c863f3be5886\/t\/1556733241\/u\/\/AmigaBurg%20Theme%20Pack%202.0.tar.gz",
+					"file": "AmigaBurg Theme Pack 2.0.tar.gz",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/AmigaBurg Theme Pack 2.0.tar.gz",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 365948959,
+					"total": 365948959,
+					"elapsed": 611,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556651160,
+					"completed-time": 1556651773,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556651163
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/user\/Utgorn\/videos",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/19DF27C5.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "A DISH SERVED COLD - Rust (Part 2\/2)",
+					"uri": "https:\/\/www.youtube.com\/watch?v=hxuyvJq1eAo",
+					"file": "A DISH SERVED COLD - Rust (Part 2_2)_720p.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/A DISH SERVED COLD - Rust (Part 2_2)_720p.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 414359151,
+					"total": 414359151,
+					"elapsed": 604,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556651158,
+					"completed-time": 1556651763,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556651160
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/user\/Utgorn\/videos",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7DA81FE7.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "BREAKING OUT - Rust (Part 1\/2)",
+					"uri": "https:\/\/www.youtube.com\/watch?v=ZLP4FOAKEwI",
+					"file": "BREAKING OUT - Rust (Part 1_2)_720p.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/BREAKING OUT - Rust (Part 1_2)_720p.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 277696070,
+					"total": 277696070,
+					"elapsed": 606,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556651150,
+					"completed-time": 1556651758,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556651153
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/user\/Utgorn\/videos",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/F08F24A.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "SOLO Player BANKRUPTS a CLAN - Rust",
+					"uri": "https:\/\/www.youtube.com\/watch?v=-9ke7jOWxZs",
+					"file": "SOLO Player BANKRUPTS a CLAN - Rust_720p.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/SOLO Player BANKRUPTS a CLAN - Rust_720p.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 405814420,
+					"total": 405814420,
+					"elapsed": 417,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556476997,
+					"completed-time": 1556477415,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556477002
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/user\/Utgorn\/videos",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1AFFDB0F.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "THE SWEETEST REVENGE - Rust (Part 2_2)_720p.mp4",
+					"uri": "https:\/\/www.youtube.com\/watch?v=KLkzR5OFfVM",
+					"file": "THE SWEETEST REVENGE - Rust (Part 2_2)_720p.mp4",
+					"folder": "\/home\/dimmed\/Videos\/Welyn",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/THE SWEETEST REVENGE - Rust (Part 2_2)_720p.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 360805706,
+					"total": 360805706,
+					"elapsed": 202,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556476995,
+					"completed-time": 1556477198,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556476997
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/user\/Utgorn\/videos",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3FFCCC03.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "TAKING OVER A CLAN COMPOUND - Rust (Part 1_2)_720p.mp4",
+					"uri": "https:\/\/www.youtube.com\/watch?v=d6QS3l1zViw&t=281s",
+					"file": "TAKING OVER A CLAN COMPOUND - Rust (Part 1_2)_720p.mp4",
+					"folder": "\/home\/dimmed\/Videos\/Welyn",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/TAKING OVER A CLAN COMPOUND - Rust (Part 1_2)_720p.mp4",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 11132302,
+					"total": 11132302,
+					"elapsed": 13,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556471758,
+					"completed-time": 1556471771,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556471760
+						}
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "peazip_portable-6.7.2.LINUX.x86_64.GTK2.tar.gz",
+					"uri": "http:\/\/nchc.dl.osdn.jp\/peazip\/70986\/peazip_portable-6.7.2.LINUX.x86_64.GTK2.tar.gz",
+					"file": "peazip_portable-6.7.2.LINUX.x86_64.GTK2.tar.gz",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/peazip_portable-6.7.2.LINUX.x86_64.GTK2.tar.gz",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 141086297,
+					"total": 141086297,
+					"elapsed": 127,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556471141,
+					"completed-time": 1556471268,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556471150
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.apachefriends.org\/download.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "xampp-linux-x64-7.2.17-0-installer.run",
+					"uri": "https:\/\/downloadsapachefriends.global.ssl.fastly.net\/7.2.17\/xampp-linux-x64-7.2.17-0-installer.run?from_af=true",
+					"file": "xampp-linux-x64-7.2.17-0-installer.run",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/xampp-linux-x64-7.2.17-0-installer.run",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 141628024,
+					"total": 141628024,
+					"elapsed": 407,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556438819,
+					"completed-time": 1556439226,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556438824
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.apachefriends.org\/download.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "xampp-linux-x64-7.3.4-0-installer.run",
+					"uri": "https:\/\/downloadsapachefriends.global.ssl.fastly.net\/7.3.4\/xampp-linux-x64-7.3.4-0-installer.run?from_af=true",
+					"file": "xampp-linux-x64-7.3.4-0-installer.run",
+					"folder": "\/home\/dimmed\/Downloads",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/dimmed\/Downloads\/xampp-linux-x64-7.3.4-0-installer.run",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 4008679,
+					"total": 4008679,
+					"elapsed": 34,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556263176,
+					"completed-time": 1556263210,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556263178
+						}
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "black_wings_by_anatofinnstark_dd5faaz-fullview.png",
+					"uri": "https:\/\/images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com\/f\/3d079e1f-386b-4bd0-84fc-cce9913fbc0c\/dd5faaz-23c98b6a-3beb-4297-ac9d-1c4af334d181.png\/v1\/fill\/w_1920,h_1005,strp\/black_wings_by_anatofinnstark_dd5faaz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwNSIsInBhdGgiOiJcL2ZcLzNkMDc5ZTFmLTM4NmItNGJkMC04NGZjLWNjZTk5MTNmYmMwY1wvZGQ1ZmFhei0yM2M5OGI2YS0zYmViLTQyOTctYWM5ZC0xYzRhZjMzNGQxODEucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8bxAHCUYVrPyhOKkicEabseXkI11g97HpWI4tnjOjMM",
+					"file": "black_wings_by_anatofinnstark_dd5faaz-fullview.png",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/black_wings_by_anatofinnstark_dd5faaz-fullview.png",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "media",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 392929359,
+					"total": 392929359,
+					"elapsed": 315,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1555701575,
+					"completed-time": 1555701893,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.youtube.com\/watch?v=XMA6bLXYBvY",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/5A7061F6.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The BETRAYAL that CHANGED EVERYTHING! - Rust_720p.mp4",
+					"uri": "https:\/\/www.youtube.com\/watch?v=RksDouflKFI&t=537s",
+					"file": "The BETRAYAL that CHANGED EVERYTHING! - Rust_720p.mp4",
+					"folder": "\/home\/dimmed\/Videos\/Welyn",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/The BETRAYAL that CHANGED EVERYTHING! - Rust_720p.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/The BETRAYAL that CHANGED EVERYTHING! - Rust_720p.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

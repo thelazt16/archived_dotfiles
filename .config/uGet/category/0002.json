@@ -1,0 +1,5737 @@
+{
+	"data": {
+		"relation": {
+			"group": 0,
+			"task": {
+				"priority": 1
+			}
+		},
+		"category": {
+			"hosts": [
+			],
+			"schemes": [
+			],
+			"file-exts": [
+				"7z",
+				"zip",
+				"rar"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		},
+		"http": {
+			"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+			"redirection-limit": 30
+		},
+		"proxy": {
+			"port": 80,
+			"type": 0
+		},
+		"common": {
+			"name": "Compresseds",
+			"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 4,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		}
+	},
+	"children": [
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 841054484,
+					"total": 841054484,
+					"elapsed": 4067,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559158888,
+					"completed-time": 1559162955,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/clicknupload.org\/idru6d5hmkje",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Kid.2019.720p.10bit.BluRay.6CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/peach05.clicknupload.net:8080\/d\/t257w7czlvyd7tr733enrjcldjnh3x2xete3zl5auizyetl3uc6jmno3ncmdoyztv3re7qqc\/The.Kid.2019.720p.10bit.BluRay.6CH.x265.HEVC-PSA.rar",
+					"file": "The.Kid.2019.720p.10bit.BluRay.6CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Kid.2019.720p.10bit.BluRay.6CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Kid.2019.720p.10bit.BluRay.6CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 362832962,
+					"total": 362832962,
+					"elapsed": 172,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559154816,
+					"completed-time": 1559154988,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/gEYVvm9CsDQ\/Captain.Marvel.2019.Digital.Extras.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1D49F2.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Captain.Marvel.2019.Digital.Extras.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorm.oloadcdn.net\/dl\/l\/25S-Osz1S71RjJkW\/gEYVvm9CsDQ\/Captain.Marvel.2019.Digital.Extras.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Captain.Marvel.2019.Digital.Extras.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Captain.Marvel.2019.Digital.Extras.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Captain.Marvel.2019.Digital.Extras.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 838829468,
+					"total": 838829468,
+					"elapsed": 8518,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559135115,
+					"completed-time": 1559143634,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/clicknupload.org\/ul0i2f9zmmhc",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Captain.Marvel.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/blacks01.clicknupload.net:8080\/d\/ns53pxkzlvyd7tr72pemjlajayiw56lku3qfxdm6cuej4gjg4qibgn3uhft4dxitkrmp2lot\/Captain.Marvel.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Captain.Marvel.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 13,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Captain.Marvel.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Captain.Marvel.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1131981,
+					"total": 1131981,
+					"elapsed": 18,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559135724,
+					"completed-time": 1559135747,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/ya-webdesign.com\/download.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/28C27020.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "hats-drawing-ace-4.zip",
+					"uri": "https:\/\/ya-webdesign.com\/?_act=service@image\/download\/pack&file=hats-drawing-ace-4.png&id=1099507&prfx=",
+					"file": "hats-drawing-ace-4.zip",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/hats-drawing-ace-4.zip",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/hats-drawing-ace-4.zip.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 716382,
+					"total": 716382,
+					"elapsed": 9,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559135721,
+					"completed-time": 1559135731,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/70B5FEAD.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "hats-drawing-ace-3.zip",
+					"uri": "https:\/\/ya-webdesign.com\/?_act=service@image\/download\/pack&file=hats-drawing-ace-3.png&id=1099510&prfx=",
+					"file": "hats-drawing-ace-3.zip",
+					"folder": "\/home\/dimmed\/Downloads\/Chrome",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/dimmed\/Downloads\/Chrome\/hats-drawing-ace-3.zip",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/home\/dimmed\/Downloads\/Chrome\/hats-drawing-ace-3.zip.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1402466,
+					"total": 1402466,
+					"elapsed": 15,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559135713,
+					"completed-time": 1559135729,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/ya-webdesign.com\/download.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/54771285.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "hats-drawing-ace-14.zip",
+					"uri": "https:\/\/ya-webdesign.com\/?_act=service@image\/download\/pack&file=hats-drawing-ace-14.png&id=2286778&prfx=",
+					"file": "hats-drawing-ace-14.zip",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/hats-drawing-ace-14.zip",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/hats-drawing-ace-14.zip.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 218304237,
+					"total": 218304237,
+					"elapsed": 607,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558805949,
+					"completed-time": 1558806557,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/h1WIialrc50\/iZombie.S05E04.Dot.Zom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "iZombie.S05E04.Dot.Zom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/S_zDb4_bSKgzcrq9\/h1WIialrc50\/iZombie.S05E04.Dot.Zom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "iZombie.S05E04.Dot.Zom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E04.Dot.Zom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E04.Dot.Zom.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 357072083,
+					"total": 357072083,
+					"elapsed": 317,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558805965,
+					"completed-time": 1558806283,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/9d3ICgKlv_M\/Doom.Patrol.S01E15.Ezekiel.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E15.Ezekiel.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorp.oloadcdn.net\/dl\/l\/7gxNMNnfleZf9GiG\/9d3ICgKlv_M\/Doom.Patrol.S01E15.Ezekiel.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E15.Ezekiel.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E15.Ezekiel.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E15.Ezekiel.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 205874936,
+					"total": 205874936,
+					"elapsed": 9,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558805938,
+					"completed-time": 1558805947,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/Rcz-73q6WP8\/Marvel%27s.Agents.of.S.H.I.E.L.D.S06E03.Fear.and.Loathing.on.the.Planet.of.Kitson.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Marvel's.Agents.of.S.H.I.E.L.D.S06E03.Fear.and.Loathing.on.the.Planet.of.Kitson.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorr.oloadcdn.net\/dl\/l\/It5FLz0iwnXoNpc2\/Rcz-73q6WP8\/Marvel%27s.Agents.of.S.H.I.E.L.D.S06E03.Fear.and.Loathing.on.the.Planet.of.Kitson.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Marvel's.Agents.of.S.H.I.E.L.D.S06E03.Fear.and.Loathing.on.the.Planet.of.Kitson.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Agents.of.S.H.I.E.L.D.S06E03.Fear.and.Loathing.on.the.Planet.of.Kitson.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Agents.of.S.H.I.E.L.D.S06E03.Fear.and.Loathing.on.the.Planet.of.Kitson.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 211462552,
+					"total": 211462552,
+					"elapsed": 924,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558697679,
+					"completed-time": 1558698603,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/ddl.to\/b8zbt4am2ouf",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.the.Dark.2019.S01E08.Jessica.Rabbit.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/cdn15.rapidshare.to:183\/d\/xz7fg7h5zrgmucuetjhgmgzzki3d7xytlzf6e6nxunsx3svx4csyib7hmxblbku6s5wvkbs7\/In.the.Dark.2019.S01E08.Jessica.Rabbit.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.the.Dark.2019.S01E08.Jessica.Rabbit.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E08.Jessica.Rabbit.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E08.Jessica.Rabbit.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 215583831,
+					"total": 215583831,
+					"elapsed": 151,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558690039,
+					"completed-time": 1558690191,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/GlrE2l-FPGk\/In.the.Dark.2019.S01E07.The.One.That.Got.Away.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.the.Dark.2019.S01E07.The.One.That.Got.Away.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoro.oloadcdn.net\/dl\/l\/rcz5ILfvrZQYsADA\/GlrE2l-FPGk\/In.the.Dark.2019.S01E07.The.One.That.Got.Away.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.the.Dark.2019.S01E07.The.One.That.Got.Away.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E07.The.One.That.Got.Away.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E07.The.One.That.Got.Away.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 249379862,
+					"total": 249379862,
+					"elapsed": 133,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558646848,
+					"completed-time": 1558646981,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/RH8BZILXNWQ\/The.Twilight.Zone.2019.S01E06.Six.Degrees.of.Freedom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Twilight.Zone.2019.S01E06.Six.Degrees.of.Freedom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorm.oloadcdn.net\/dl\/l\/Rt7GC2DP_FhQb6Kw\/RH8BZILXNWQ\/The.Twilight.Zone.2019.S01E06.Six.Degrees.of.Freedom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Twilight.Zone.2019.S01E06.Six.Degrees.of.Freedom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E06.Six.Degrees.of.Freedom.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E06.Six.Degrees.of.Freedom.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 185471514,
+					"total": 185471514,
+					"elapsed": 495,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558646298,
+					"completed-time": 1558646795,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/aqaqiya.com\/g4Qe",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Twilight.Zone.2019.S01E09.The.Blue.Scorpion.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/312627\/The.Twilight.Zone.2019.S01E09.The.Blue.Scorpion.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Twilight.Zone.2019.S01E09.The.Blue.Scorpion.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E09.The.Blue.Scorpion.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E09.The.Blue.Scorpion.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 191116809,
+					"total": 191116809,
+					"elapsed": 260,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558646332,
+					"completed-time": 1558646593,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/DrJmwA9Q2bI\/The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/rkg8BvZhTPES_WpX\/DrJmwA9Q2bI\/The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 202020456,
+					"total": 202020456,
+					"elapsed": 241,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558646317,
+					"completed-time": 1558646558,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/LuE_bO_Fdwc\/The.Twilight.Zone.2019.S01E08.Point.of.Origin.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Twilight.Zone.2019.S01E08.Point.of.Origin.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorv.oloadcdn.net\/dl\/l\/4p-j-goyScvbb1Ir\/LuE_bO_Fdwc\/The.Twilight.Zone.2019.S01E08.Point.of.Origin.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Twilight.Zone.2019.S01E08.Point.of.Origin.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E08.Point.of.Origin.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E08.Point.of.Origin.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 231181837,
+					"total": 231181837,
+					"elapsed": 229,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558458476,
+					"completed-time": 1558458706,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "DC's.Legends.of.Tomorrow.S04E16.Hey.World.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/32372\/DC%27s.Legends.of.Tomorrow.S04E16.Hey.World.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"file": "DC's.Legends.of.Tomorrow.S04E16.Hey.World.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 2,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E16.Hey.World.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E16.Hey.World.720p.WEB-DL.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 220657583,
+					"total": 220657583,
+					"elapsed": 223,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558388427,
+					"completed-time": 1558388651,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/bRf14YSB6GI\/Charmed.2018.S01E22.The.Source.Awakens.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Charmed.2018.S01E22.The.Source.Awakens.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorm.oloadcdn.net\/dl\/l\/MBqnyUo4klw_99tq\/bRf14YSB6GI\/Charmed.2018.S01E22.The.Source.Awakens.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Charmed.2018.S01E22.The.Source.Awakens.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E22.The.Source.Awakens.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E22.The.Source.Awakens.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 213645618,
+					"total": 213645618,
+					"elapsed": 239,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558385192,
+					"completed-time": 1558385431,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/IeU82FVhxHQ\/Supergirl.S04E22.The.Quest.for.Peace.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Supergirl.S04E22.The.Quest.for.Peace.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorq.oloadcdn.net\/dl\/l\/GDUBFyjI368gYHEG\/IeU82FVhxHQ\/Supergirl.S04E22.The.Quest.for.Peace.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Supergirl.S04E22.The.Quest.for.Peace.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E22.The.Quest.for.Peace.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E22.The.Quest.for.Peace.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 934304,
+					"total": 934304,
+					"elapsed": 3,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558295323,
+					"completed-time": 1558295327,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.samsung.com\/semiconductor\/minisite\/ssd\/download\/tools\/",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/52BD692C.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Samsung_Magician_DC_Linux_64bit.zip",
+					"uri": "https:\/\/www.samsung.com\/semiconductor\/global.semi.static\/Samsung_Magician_DC_Linux_64bit.zip",
+					"file": "Samsung_Magician_DC_Linux_64bit.zip",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Samsung_Magician_DC_Linux_64bit.zip",
+							"type": 0,
+							"state": 0,
+							"total": 934304,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Samsung_Magician_DC_Linux_64bit.zip.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 234345653,
+					"total": 234345653,
+					"elapsed": 267,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558180626,
+					"completed-time": 1558180894,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Marvel's.Agents.of.S.H.I.E.L.D.S06E02.Window.of.Opportunity.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/57246\/Marvel%27s.Agents.of.S.H.I.E.L.D.S06E02.Window.of.Opportunity.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Marvel's.Agents.of.S.H.I.E.L.D.S06E02.Window.of.Opportunity.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 2,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Agents.of.S.H.I.E.L.D.S06E02.Window.of.Opportunity.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Agents.of.S.H.I.E.L.D.S06E02.Window.of.Opportunity.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 215647986,
+					"total": 215647986,
+					"elapsed": 416,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558179764,
+					"completed-time": 1558180181,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/-yNvLUX1opk\/iZombie.S05E03.Five.Six.Seven.Ate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "iZombie.S05E03.Five.Six.Seven.Ate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizors.oloadcdn.net\/dl\/l\/zKykj41KNgH0M_5Q\/-yNvLUX1opk\/iZombie.S05E03.Five.Six.Seven.Ate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "iZombie.S05E03.Five.Six.Seven.Ate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E03.Five.Six.Seven.Ate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E03.Five.Six.Seven.Ate.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 213280854,
+					"total": 213280854,
+					"elapsed": 233,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558160147,
+					"completed-time": 1558160380,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/WD3z19i6LKA\/iZombie.S05E03.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "iZombie.S05E03.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorr.oloadcdn.net\/dl\/l\/BLSciZ0O_B6bhnUC\/WD3z19i6LKA\/iZombie.S05E03.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "iZombie.S05E03.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E03.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E03.720p.HDTV.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 269033103,
+					"total": 269033103,
+					"elapsed": 400,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1558131951,
+					"completed-time": 1558132352,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E14.Penultimate.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/353612\/Doom.Patrol.S01E14.Penultimate.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E14.Penultimate.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 6,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E14.Penultimate.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E14.Penultimate.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 212526140,
+					"total": 212526140,
+					"elapsed": 208,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557938049,
+					"completed-time": 1557938257,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Flash.2014.S05E22.Legacy.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/2536\/The.Flash.2014.S05E22.Legacy.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Flash.2014.S05E22.Legacy.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Flash.2014.S05E22.Legacy.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Flash.2014.S05E22.Legacy.720p.WEB-DL.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 206219573,
+					"total": 206219573,
+					"elapsed": 265,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557894416,
+					"completed-time": 1557894682,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/dI043rG296o\/The.Flash.2014.S05E22.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/6D8AF5A8.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Flash.2014.S05E22.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoro.oloadcdn.net\/dl\/l\/BSYNVPwuWxEAfFKL\/dI043rG296o\/The.Flash.2014.S05E22.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Flash.2014.S05E22.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Flash.2014.S05E22.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Flash.2014.S05E22.720p.HDTV.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 224349182,
+					"total": 224349182,
+					"elapsed": 197,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557853956,
+					"completed-time": 1557854154,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/cp3lj5nP6wM\/Arrow.S07E22.You.Have.Saved.This.City.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/15CC9F54.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Arrow.S07E22.You.Have.Saved.This.City.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorv.oloadcdn.net\/dl\/l\/AT83--P6mj2914tz\/cp3lj5nP6wM\/Arrow.S07E22.You.Have.Saved.This.City.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Arrow.S07E22.You.Have.Saved.This.City.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Arrow.S07E22.You.Have.Saved.This.City.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Arrow.S07E22.You.Have.Saved.This.City.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 207696472,
+					"total": 207696472,
+					"elapsed": 124,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557814951,
+					"completed-time": 1557815076,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/ze4BNlB52Hk\/DC%27s.Legends.of.Tomorrow.S04E15.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/8E52DC1.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "DC's.Legends.of.Tomorrow.S04E15.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorn.oloadcdn.net\/dl\/l\/KMnpt5rZVCbNRuel\/ze4BNlB52Hk\/DC%27s.Legends.of.Tomorrow.S04E15.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "DC's.Legends.of.Tomorrow.S04E15.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E15.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E15.720p.HDTV.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 202423292,
+					"total": 202423292,
+					"elapsed": 134,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557773277,
+					"completed-time": 1557773412,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/upeLLFt7y2A\/Charmed.2018.S01E21.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7A0685C0.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Charmed.2018.S01E21.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizors.oloadcdn.net\/dl\/l\/rdSDGj5hRzN1rWsi\/upeLLFt7y2A\/Charmed.2018.S01E21.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Charmed.2018.S01E21.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E21.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E21.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 214172680,
+					"total": 214172680,
+					"elapsed": 149,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557773037,
+					"completed-time": 1557773187,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/AQKaFeeVxqg\/Supergirl.S04E21.Red.Dawn.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/38EF3807.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Supergirl.S04E21.Red.Dawn.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/yblRfoifJIcoXiPG\/AQKaFeeVxqg\/Supergirl.S04E21.Red.Dawn.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Supergirl.S04E21.Red.Dawn.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E21.Red.Dawn.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E21.Red.Dawn.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 844166888,
+					"total": 844166888,
+					"elapsed": 604,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557696439,
+					"completed-time": 1557697044,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Shazam.2019.720p.HC.HDRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/423452\/Shazam.2019.720p.HC.HDRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Shazam.2019.720p.HC.HDRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Shazam.2019.720p.HC.HDRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Shazam.2019.720p.HC.HDRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 263253992,
+					"total": 263253992,
+					"elapsed": 455,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557609561,
+					"completed-time": 1557610017,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/OztoWmxUVmA\/In.the.Dark.2019.S01E06.Tyson.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/68F03F89.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.the.Dark.2019.S01E06.Tyson.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizors.oloadcdn.net\/dl\/l\/xAcHrdR3un3DA6Cz\/OztoWmxUVmA\/In.the.Dark.2019.S01E06.Tyson.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.the.Dark.2019.S01E06.Tyson.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E06.Tyson.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E06.Tyson.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 209272691,
+					"total": 209272691,
+					"elapsed": 279,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557597614,
+					"completed-time": 1557597894,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/ParYXHlqKb8\/In.the.Dark.2019.S01E04.The.Graduate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/32C8B90C.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.the.Dark.2019.S01E04.The.Graduate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizors.oloadcdn.net\/dl\/l\/xSHS0r7r_PMWB44o\/ParYXHlqKb8\/In.the.Dark.2019.S01E04.The.Graduate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.the.Dark.2019.S01E04.The.Graduate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E04.The.Graduate.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E04.The.Graduate.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 190952982,
+					"total": 190952982,
+					"elapsed": 191,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557597622,
+					"completed-time": 1557597813,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/Q61sBa8d8cI\/In.the.Dark.2019.S01E05.The.Feels.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/62632E14.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.the.Dark.2019.S01E05.The.Feels.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizort.oloadcdn.net\/dl\/l\/r-jvPC1I6Em2iSqL\/Q61sBa8d8cI\/In.the.Dark.2019.S01E05.The.Feels.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.the.Dark.2019.S01E05.The.Feels.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E05.The.Feels.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E05.The.Feels.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 186822336,
+					"total": 186822336,
+					"elapsed": 110,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557592719,
+					"completed-time": 1557592831,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www42.zippyshare.com\/v\/SyZ8I8IM\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7DE71916.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.the.Dark.2019.S01E03.The.Big.Break.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www42.zippyshare.com\/d\/SyZ8I8IM\/579069\/In.the.Dark.2019.S01E03.The.Big.Break.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.the.Dark.2019.S01E03.The.Big.Break.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E03.The.Big.Break.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E03.The.Big.Break.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 212422914,
+					"total": 212422914,
+					"elapsed": 206,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557590045,
+					"completed-time": 1557590252,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www50.zippyshare.com\/v\/5XIcDyHV\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/29417C06.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.the.Dark.2019.S01E02.Mommy.Issues.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www50.zippyshare.com\/d\/5XIcDyHV\/651418\/In.the.Dark.2019.S01E02.Mommy.Issues.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.the.Dark.2019.S01E02.Mommy.Issues.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E02.Mommy.Issues.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E02.Mommy.Issues.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 196104275,
+					"total": 196104275,
+					"elapsed": 251,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557586840,
+					"completed-time": 1557587092,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www77.zippyshare.com\/v\/Y5B1L5P3\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/5B64F5CA.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.The.Dark.2019.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www77.zippyshare.com\/d\/Y5B1L5P3\/235884\/In.The.Dark.2019.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.The.Dark.2019.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.The.Dark.2019.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.The.Dark.2019.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 227680802,
+					"total": 227680802,
+					"elapsed": 207,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557580205,
+					"completed-time": 1557580414,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Marvel's.Agents.of.S.H.I.E.L.D.S06E01.Missing.Pieces.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/86486\/Marvel%27s.Agents.of.S.H.I.E.L.D.S06E01.Missing.Pieces.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Marvel's.Agents.of.S.H.I.E.L.D.S06E01.Missing.Pieces.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Agents.of.S.H.I.E.L.D.S06E01.Missing.Pieces.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Agents.of.S.H.I.E.L.D.S06E01.Missing.Pieces.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 245724737,
+					"total": 245724737,
+					"elapsed": 193,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557569774,
+					"completed-time": 1557569967,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E13.Flex.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/413413\/Doom.Patrol.S01E13.Flex.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E13.Flex.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 2,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E13.Flex.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E13.Flex.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 230074770,
+					"total": 230074770,
+					"elapsed": 149,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557561724,
+					"completed-time": 1557561873,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/JzoSCtgs7J8\/iZombie.S05E02.Dead.Lift.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/13751A37.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "iZombie.S05E02.Dead.Lift.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/Iy7-oZIQGJ46JyhI\/JzoSCtgs7J8\/iZombie.S05E02.Dead.Lift.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "iZombie.S05E02.Dead.Lift.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E02.Dead.Lift.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E02.Dead.Lift.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 191116809,
+					"total": 191116809,
+					"elapsed": 393,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557402227,
+					"completed-time": 1557402620,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/DrJmwA9Q2bI\/The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/13B0CDEB.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/VgKU2WCD-k0atKZt\/DrJmwA9Q2bI\/The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E07.Not.All.Men.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 848305871,
+					"total": 848305871,
+					"elapsed": 617,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557347899,
+					"completed-time": 1557348517,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/dN5HmqvvCpE\/What.Men.Want.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7BA0A34D.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "What.Men.Want.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorm.oloadcdn.net\/dl\/l\/DV-RwEDqv2Z4mRBu\/dN5HmqvvCpE\/What.Men.Want.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"file": "What.Men.Want.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/What.Men.Want.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/What.Men.Want.2019.720p.BrRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 267964748,
+					"total": 267964748,
+					"elapsed": 360,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557336441,
+					"completed-time": 1557341858,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/PFdFzTMWHGw\/Into.the.Badlands.S03E16.Seven.Strike.as.One.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/65FB0443.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Into.the.Badlands.S03E16.Seven.Strike.as.One.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizort.oloadcdn.net\/dl\/l\/6kHrVacIQG1cvEfA\/PFdFzTMWHGw\/Into.the.Badlands.S03E16.Seven.Strike.as.One.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Into.the.Badlands.S03E16.Seven.Strike.as.One.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Into.the.Badlands.S03E16.Seven.Strike.as.One.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Into.the.Badlands.S03E16.Seven.Strike.as.One.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 218319419,
+					"total": 218319419,
+					"elapsed": 622,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557336378,
+					"completed-time": 1557337001,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Flash.2014.S05E21.The.Girl.With.the.Red.Lightning.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/files.psarips.net\/files\/742652\/The.Flash.2014.S05E21.The.Girl.With.the.Red.Lightning.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Flash.2014.S05E21.The.Girl.With.the.Red.Lightning.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 6,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Flash.2014.S05E21.The.Girl.With.the.Red.Lightning.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Flash.2014.S05E21.The.Girl.With.the.Red.Lightning.720p.WEB-DL.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 725774616,
+					"total": 725774616,
+					"elapsed": 563,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557332980,
+					"completed-time": 1557333543,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "http:\/\/www.mediafire.com\/file\/ck5lldmfa455j55\/Remix_OS_for_PC_64_B2016011201_Alpha.zip",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/2F03640B.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Remix_OS_for_PC_64_B2016011201_Alpha.zip",
+					"uri": "http:\/\/download1115.mediafire.com\/sbj6sab17meg\/ck5lldmfa455j55\/Remix_OS_for_PC_64_B2016011201_Alpha.zip",
+					"file": "Remix_OS_for_PC_64_B2016011201_Alpha.zip",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Remix_OS_for_PC_64_B2016011201_Alpha.zip",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Remix_OS_for_PC_64_B2016011201_Alpha.zip.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 211548362,
+					"total": 211548362,
+					"elapsed": 132,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557245236,
+					"completed-time": 1557245369,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Arrow.S07E21.Living.Proof.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/files.psarips.net\/files\/7452542\/Arrow.S07E21.Living.Proof.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Arrow.S07E21.Living.Proof.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Arrow.S07E21.Living.Proof.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Arrow.S07E21.Living.Proof.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 201257425,
+					"total": 201257425,
+					"elapsed": 287,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557214041,
+					"completed-time": 1557214328,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/Vw-m2u_KNYw\/Charmed.2018.S01E19.Power.of.Four.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/20E8CC1B.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Charmed.2018.S01E19.Power.of.Four.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorn.oloadcdn.net\/dl\/l\/JiOr-otX0vn5LQpy\/Vw-m2u_KNYw\/Charmed.2018.S01E19.Power.of.Four.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Charmed.2018.S01E19.Power.of.Four.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E19.Power.of.Four.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E19.Power.of.Four.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 223805454,
+					"total": 223805454,
+					"elapsed": 357,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557212770,
+					"completed-time": 1557213128,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/AHl2ZURdpao\/DC%27s.Legends.of.Tomorrow.S04E14.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/20A11F50.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "DC's.Legends.of.Tomorrow.S04E14.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorq.oloadcdn.net\/dl\/l\/hv6gv79wHV0ympil\/AHl2ZURdpao\/DC%27s.Legends.of.Tomorrow.S04E14.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "DC's.Legends.of.Tomorrow.S04E14.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E14.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E14.720p.HDTV.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 200160300,
+					"total": 200160300,
+					"elapsed": 160,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557178192,
+					"completed-time": 1557178353,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/8FImhSk1olA\/Charmed.2018.S01E20.Ambush.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1A5D5B5F.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Charmed.2018.S01E20.Ambush.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/NxvrZEd-EMlnorLB\/8FImhSk1olA\/Charmed.2018.S01E20.Ambush.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Charmed.2018.S01E20.Ambush.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E20.Ambush.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E20.Ambush.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 198805886,
+					"total": 198805886,
+					"elapsed": 222,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557147575,
+					"completed-time": 1557147799,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/SGYyY-NvsTQ\/Supergirl.S04E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/461AFC15.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Supergirl.S04E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/zeyvH30a8vTodDBE\/SGYyY-NvsTQ\/Supergirl.S04E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "Supergirl.S04E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E20.720p.HDTV.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 197721246,
+					"total": 197721246,
+					"elapsed": 272,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556984742,
+					"completed-time": 1556985014,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556984744
+						}
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E12.Cyborg.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/62513\/Doom.Patrol.S01E12.Cyborg.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E12.Cyborg.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E12.Cyborg.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 211732601,
+					"total": 211732601,
+					"elapsed": 461,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556861297,
+					"completed-time": 1556861758,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556861300
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/pXfTUvEUESg\/iZombie.S05E01.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/5FF1DC03.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "iZombie.S05E01.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoro.oloadcdn.net\/dl\/l\/v41lrgtLfWYQCwFS\/pXfTUvEUESg\/iZombie.S05E01.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "iZombie.S05E01.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E01.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 276033292,
+					"total": 276033292,
+					"elapsed": 259,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556830122,
+					"completed-time": 1556830381,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556830129
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www106.zippyshare.com\/v\/68A8mZy9\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/684071D.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E10.Hair.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www106.zippyshare.com\/d\/68A8mZy9\/478466\/Doom.Patrol.S01E10.Hair.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E10.Hair.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E10.Hair.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 258368512,
+					"total": 258368512,
+					"elapsed": 197,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556830126,
+					"completed-time": 1556830323,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556830127
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/rdco1DOo5TU\/Doom.Patrol.S01E11.Frances.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7E27156C.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E11.Frances.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoro.oloadcdn.net\/dl\/l\/MIZf6uzg1hzqMLV9\/rdco1DOo5TU\/Doom.Patrol.S01E11.Frances.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E11.Frances.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E11.Frances.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 326399835,
+					"total": 326399835,
+					"elapsed": 335,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556829671,
+					"completed-time": 1556830006,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556829679
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www109.zippyshare.com\/v\/rxwPC0jk\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7638E0E0.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E08.Danny.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www109.zippyshare.com\/d\/rxwPC0jk\/327418\/Doom.Patrol.S01E08.Danny.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E08.Danny.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E08.Danny.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 190873212,
+					"total": 190873212,
+					"elapsed": 325,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556829676,
+					"completed-time": 1556830001,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556829684
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www8.zippyshare.com\/v\/d9dMY1vu\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/5BECA41F.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E09.Jane.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www8.zippyshare.com\/d\/d9dMY1vu\/137022\/Doom.Patrol.S01E09.Jane.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E09.Jane.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E09.Jane.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 265039414,
+					"total": 265039414,
+					"elapsed": 327,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556829669,
+					"completed-time": 1556829996,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556829676
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www33.zippyshare.com\/v\/AG0XrH0B\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/6C8A41BE.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E07.Therapy.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www33.zippyshare.com\/d\/AG0XrH0B\/384240\/Doom.Patrol.S01E07.Therapy.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E07.Therapy.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E07.Therapy.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 233688122,
+					"total": 233688122,
+					"elapsed": 307,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556829357,
+					"completed-time": 1556829664,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556829364
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www35.zippyshare.com\/v\/cCAPd7f3\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/4E0DAD9.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E06.Doom.Patrol.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www35.zippyshare.com\/d\/cCAPd7f3\/394422\/Doom.Patrol.S01E06.Doom.Patrol.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E06.Doom.Patrol.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E06.Doom.Patrol.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 248257675,
+					"total": 248257675,
+					"elapsed": 300,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556829354,
+					"completed-time": 1556829654,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556829361
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www27.zippyshare.com\/v\/xCTc7tdP\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7AC195DC.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E05.Paw.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www27.zippyshare.com\/d\/xCTc7tdP\/406288\/Doom.Patrol.S01E05.Paw.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E05.Paw.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E05.Paw.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 199301883,
+					"total": 199301883,
+					"elapsed": 260,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556829350,
+					"completed-time": 1556829610,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556829358
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www25.zippyshare.com\/v\/xffaibu8\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3116F878.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E04.Cult.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www25.zippyshare.com\/d\/xffaibu8\/822900\/Doom.Patrol.S01E04.Cult.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E04.Cult.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E04.Cult.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 225564443,
+					"total": 225564443,
+					"elapsed": 226,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556829021,
+					"completed-time": 1556829247,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556829029
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www84.zippyshare.com\/v\/nA0ZTEs0\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7CE5C162.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E03.Puppet.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www84.zippyshare.com\/d\/nA0ZTEs0\/254196\/Doom.Patrol.S01E03.Puppet.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E03.Puppet.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E03.Puppet.Patrol.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 322758738,
+					"total": 322758738,
+					"elapsed": 165,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556828975,
+					"completed-time": 1556829140,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556828977
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/wQyrG224y9s\/Doom.Patrol.S01E02.Donkey.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7F507D8B.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E02.Donkey.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorp.oloadcdn.net\/dl\/l\/ogsbr2gmLi6A3Qo4\/wQyrG224y9s\/Doom.Patrol.S01E02.Donkey.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E02.Donkey.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E02.Donkey.Patrol.REPACK.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 331992438,
+					"total": 331992438,
+					"elapsed": 127,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556828727,
+					"completed-time": 1556828854,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556828730
+						}
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Doom.Patrol.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/579824\/Doom.Patrol.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Doom.Patrol.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Doom.Patrol.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 213228581,
+					"total": 213228581,
+					"elapsed": 204,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556719301,
+					"completed-time": 1556719505,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556719303
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/oload.stream\/f\/tSo6dgg1BoI",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "SPG+Bekasi+Part+2+FULL+HD.rar",
+					"uri": "https:\/\/1fizorr.oloadcdn.net\/dl\/l\/j3qlB8sHnhODOL3M\/tSo6dgg1BoI\/SPG+Bekasi+Part+2+FULL+HD.rar",
+					"file": "SPG+Bekasi+Part+2+FULL+HD.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/SPG+Bekasi+Part+2+FULL+HD.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 26149029,
+					"total": 26149029,
+					"elapsed": 30,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556719272,
+					"completed-time": 1556719302,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556719275
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/oload.stream\/f\/4Ltm_m8msak",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Mpuss+SPG+Bekasi+Nude+Foto+Video_bokepgo.club.zip",
+					"uri": "https:\/\/1fizors.oloadcdn.net\/dl\/l\/GULGlYaExykBXoGd\/4Ltm_m8msak\/Mpuss+SPG+Bekasi+Nude+Foto%2BVideo_bokepgo.club.zip",
+					"file": "Mpuss+SPG+Bekasi+Nude+Foto+Video_bokepgo.club.zip",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Mpuss+SPG+Bekasi+Nude+Foto+Video_bokepgo.club.zip",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 225689834,
+					"total": 225689834,
+					"elapsed": 239,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556710957,
+					"completed-time": 1556711196,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556710964
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/hik5LCasgWU\/Into.The.Badlands.S03E15.Requiem.for.the.Fallen.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Into.The.Badlands.S03E15.Requiem.for.the.Fallen.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorv.oloadcdn.net\/dl\/l\/l3rfhhU3rGuwabx2\/hik5LCasgWU\/Into.The.Badlands.S03E15.Requiem.for.the.Fallen.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Into.The.Badlands.S03E15.Requiem.for.the.Fallen.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Into.The.Badlands.S03E15.Requiem.for.the.Fallen.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 217883303,
+					"total": 217883303,
+					"elapsed": 401,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556688338,
+					"completed-time": 1556688739,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556688341
+						}
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Flash.2014.S05E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/64224\/The.Flash.2014.S05E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Flash.2014.S05E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Flash.2014.S05E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 679920372,
+					"total": 679920372,
+					"elapsed": 555,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556651087,
+					"completed-time": 1556651642,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556651089
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/oload.site\/f\/w0y7UMnzloM\/",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Sesat.2018.WEB-DL.720p.FMZM.rar",
+					"uri": "https:\/\/1fizorp.oloadcdn.net\/dl\/l\/oSLhyV_HKRjo5xxO\/w0y7UMnzloM\/Sesat.2018.WEB-DL.720p.FMZM.rar",
+					"file": "Sesat.2018.WEB-DL.720p.FMZM.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Sesat.2018.WEB-DL.720p.FMZM.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 188879214,
+					"total": 188879214,
+					"elapsed": 289,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556612283,
+					"completed-time": 1556612572,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556612284
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/AgKlpM9yEwk\/Arrow.S07E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Arrow.S07E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/X4ZQYN6Z-EAJeGkG\/AgKlpM9yEwk\/Arrow.S07E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "Arrow.S07E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Arrow.S07E20.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 217297380,
+					"total": 217297380,
+					"elapsed": 124,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556597665,
+					"completed-time": 1556597789,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556597668
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/65RwX6vFM8E\/DC%27s.Legends.of.Tomorrow.S04E13.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "DC's.Legends.of.Tomorrow.S04E13.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoro.oloadcdn.net\/dl\/l\/vOENPuXFzjdnPkHv\/65RwX6vFM8E\/DC%27s.Legends.of.Tomorrow.S04E13.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "DC's.Legends.of.Tomorrow.S04E13.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E13.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1658750,
+					"total": 1658750,
+					"elapsed": 9,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556528354,
+					"completed-time": 1556528363,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556528361
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.opendesktop.org\/dl?file_id=1541978383&file_type=application\/zip&file_name=Theme%20and%20Fonts.zip&file_size=1658750&project_id=1237548&link_type=download&is_external=false",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Theme and Fonts.zip",
+					"uri": "https:\/\/dl.opendesktop.org\/api\/files\/download\/id\/1541978383\/s\/695e5158b72097c9bea965df650cd3f86b69be615f16d1ba82e5c66671dedecdc7670d95b9a8a30cd19140a59a1d3770aacf7ceae0b445328ba5a871100d9262\/t\/1556531638\/u\/\/Theme%20and%20Fonts.zip",
+					"file": "Theme and Fonts.zip",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Theme and Fonts.zip",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 192777068,
+					"total": 192777068,
+					"elapsed": 404,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556527213,
+					"completed-time": 1556527617,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556527216
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/Supdx_Nxjc8\/Supergirl.S04E19.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Supergirl.S04E19.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorv.oloadcdn.net\/dl\/l\/2EMxIML0y1FiRug3\/Supdx_Nxjc8\/Supergirl.S04E19.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "Supergirl.S04E19.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E19.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 196260374,
+					"total": 196260374,
+					"elapsed": 106,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556512067,
+					"completed-time": 1556512173,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556512070
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/9k9taIGDAtg\/Charmed.2018.S01E18.The.Replacement.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Charmed.2018.S01E18.The.Replacement.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorn.oloadcdn.net\/dl\/l\/zU0f5N2uJSAtPVxX\/9k9taIGDAtg\/Charmed.2018.S01E18.The.Replacement.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Charmed.2018.S01E18.The.Replacement.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Charmed.2018.S01E18.The.Replacement.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 482998110,
+					"total": 482998110,
+					"elapsed": 322,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556397694,
+					"completed-time": 1556398016,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556397695
+						}
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Bonding.SEASON.01.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/download.psarips.net\/files\/404814\/Bonding.SEASON.01.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Bonding.SEASON.01.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/home\/dimmed\/Downloads",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/dimmed\/Downloads\/Bonding.SEASON.01.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 0
+					}
+				},
+				"progress": {
+					"complete": 215437079,
+					"total": 215437079,
+					"elapsed": 286,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556201953,
+					"completed-time": 1556202239,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556201955
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/EfeNzx1KDww\/The.Twilight.Zone.2019.S01E05.The.Wunderkind.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Twilight.Zone.2019.S01E05.The.Wunderkind.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorv.oloadcdn.net\/dl\/l\/XvVieuCDF-0xuSFT\/EfeNzx1KDww\/The.Twilight.Zone.2019.S01E05.The.Wunderkind.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Twilight.Zone.2019.S01E05.The.Wunderkind.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E05.The.Wunderkind.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 257013583,
+					"total": 257013583,
+					"elapsed": 400,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556117607,
+					"completed-time": 1556118007,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556117614
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www26.zippyshare.com\/v\/Wo6fDdEn\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/10944A0D.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Into.The.Badlands.S03E14.Curse.of.the.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www26.zippyshare.com\/d\/Wo6fDdEn\/398731\/Into.The.Badlands.S03E14.Curse.of.the.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Into.The.Badlands.S03E14.Curse.of.the.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Into.The.Badlands.S03E14.Curse.of.the.Red.Rain.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 231232186,
+					"total": 231232186,
+					"elapsed": 1203,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556116384,
+					"completed-time": 1556117587,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556116391
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www66.zippyshare.com\/v\/GUr2lzsL\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3D400316.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Flash.2014.S05E19.Snow.Pack.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www66.zippyshare.com\/d\/GUr2lzsL\/875926\/The.Flash.2014.S05E19.Snow.Pack.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Flash.2014.S05E19.Snow.Pack.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Flash.2014.S05E19.Snow.Pack.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 220671192,
+					"total": 220671192,
+					"elapsed": 928,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556114419,
+					"completed-time": 1556115347,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www84.zippyshare.com\/v\/rfG3ECRH\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/217231B6.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Arrow.S07E19.Spartan.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www84.zippyshare.com\/d\/rfG3ECRH\/401240\/Arrow.S07E19.Spartan.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Arrow.S07E19.Spartan.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Arrow.S07E19.Spartan.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Arrow.S07E19.Spartan.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 225981952,
+					"total": 225981952,
+					"elapsed": 282,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556088376,
+					"completed-time": 1556088659,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www69.zippyshare.com\/v\/26ViA8Iq\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3D41795F.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "DC's.Legends.of.Tomorrow.S04E12.The.Eggplant.the.Witch.&.the.Wardrobe.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www69.zippyshare.com\/d\/26ViA8Iq\/962716\/DC%27s.Legends.of.Tomorrow.S04E12.The.Eggplant.the.Witch.%26.the.Wardrobe.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "DC's.Legends.of.Tomorrow.S04E12.The.Eggplant.the.Witch.&.the.Wardrobe.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E12.The.Eggplant.the.Witch.&.the.Wardrobe.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E12.The.Eggplant.the.Witch.&.the.Wardrobe.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 234377458,
+					"total": 234377458,
+					"elapsed": 386,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556070680,
+					"completed-time": 1556071066,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www14.zippyshare.com\/v\/T8LXdAGr\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7982C97E.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "DC's.Legends.of.Tomorrow.S04E12.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www14.zippyshare.com\/d\/T8LXdAGr\/175509\/DC%27s.Legends.of.Tomorrow.S04E12.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"file": "DC's.Legends.of.Tomorrow.S04E12.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E12.720p.HDTV.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/DC's.Legends.of.Tomorrow.S04E12.720p.HDTV.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 215894554,
+					"total": 215894554,
+					"elapsed": 278,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1555996850,
+					"completed-time": 1555997129,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www29.zippyshare.com\/v\/PqZtDAYL\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/638482F3.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Supergirl.S04E18.Crime.and.Punishment.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www29.zippyshare.com\/d\/PqZtDAYL\/372577\/Supergirl.S04E18.Crime.and.Punishment.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Supergirl.S04E18.Crime.and.Punishment.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E18.Crime.and.Punishment.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E18.Crime.and.Punishment.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 212231862,
+					"total": 212231862,
+					"elapsed": 130,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1555993350,
+					"completed-time": 1555993480,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www80.zippyshare.com\/v\/NQuWv4ah\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/A869CB8.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Supergirl.S04E17.All.About.Eve.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www80.zippyshare.com\/d\/NQuWv4ah\/525236\/Supergirl.S04E17.All.About.Eve.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Supergirl.S04E17.All.About.Eve.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E17.All.About.Eve.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Supergirl.S04E17.All.About.Eve.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 510947262,
+					"total": 510947262,
+					"elapsed": 931,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1555700477,
+					"completed-time": 1555701409,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www5.zippyshare.com\/v\/lTBHNk7v\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/5A0D96D4.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Bouncer.A.K.A.Lukas.2018.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www5.zippyshare.com\/d\/lTBHNk7v\/195333\/The.Bouncer.A.K.A.Lukas.2018.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Bouncer.A.K.A.Lukas.2018.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Bouncer.A.K.A.Lukas.2018.720p.BrRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Bouncer.A.K.A.Lukas.2018.720p.BrRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1208140,
+					"total": 1208140,
+					"elapsed": 7,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1555694592,
+					"completed-time": 1555694599,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.opendesktop.org\/dl?file_id=1555383095&file_type=application\/x-xz&file_name=blue.tar.xz&file_size=1208140&project_id=1209330&link_type=download&is_external=false",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "blue.tar.xz",
+					"uri": "https:\/\/dl.opendesktop.org\/api\/files\/download\/id\/1555383095\/s\/ab5f17b360a0c8f23adbd0b092ba5477efa15f00dbb17450d0e48f36d64917b2745d400699cf83a059f553fdeb5c346b4d6069222fcabdc3fbe0678ec467591d\/t\/1555697868\/u\/\/blue.tar.xz",
+					"file": "blue.tar.xz",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/blue.tar.xz",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/blue.tar.xz.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 211529409,
+					"total": 211529409,
+					"elapsed": 426,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1555693700,
+					"completed-time": 1555694127,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www71.zippyshare.com\/v\/Y6oKH0Cu\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7AF3BCC7.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Marvel's.Cloak.and.Dagger.S01E01.First.Light.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www71.zippyshare.com\/d\/Y6oKH0Cu\/363873\/Marvel%27s.Cloak.and.Dagger.S01E01.First.Light.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Marvel's.Cloak.and.Dagger.S01E01.First.Light.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Cloak.and.Dagger.S01E01.First.Light.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Cloak.and.Dagger.S01E01.First.Light.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

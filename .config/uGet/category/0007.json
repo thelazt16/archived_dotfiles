@@ -1,0 +1,307 @@
+{
+	"data": {
+		"relation": {
+			"group": 0,
+			"task": {
+				"priority": 1
+			}
+		},
+		"category": {
+			"hosts": [
+			],
+			"schemes": [
+			],
+			"file-exts": [
+				"iso",
+				"img",
+				"cue"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		},
+		"http": {
+			"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+			"redirection-limit": 30
+		},
+		"proxy": {
+			"port": 80,
+			"type": 0
+		},
+		"common": {
+			"name": "ISO Image",
+			"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 4,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		}
+	},
+	"children": [
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 1540358144,
+					"total": 1540358144,
+					"elapsed": 2148,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1557336719,
+					"completed-time": 1557338868,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/sourceforge.net\/projects\/blissos-x86\/files\/Official\/bleeding_edge\/archived\/Oreo\/Bliss-v10.1-Beta-android_x86_64-OFFICIAL-20180803-1436_k4.16.8-ipts-blissified-ath_18.1.0-devel_w14_dev-kernel.org.iso\/download",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Bliss-v10.1-Beta-android_x86_64-OFFICIAL-20180803-1436_k4.16.8-ipts-blissified-ath_18.1.0-devel_w14_dev-kernel.org.iso",
+					"uri": "https:\/\/nchc.dl.sourceforge.net\/project\/blissos-x86\/Official\/bleeding_edge\/archived\/Oreo\/Bliss-v10.1-Beta-android_x86_64-OFFICIAL-20180803-1436_k4.16.8-ipts-blissified-ath_18.1.0-devel_w14_dev-kernel.org.iso",
+					"file": "Bliss-v10.1-Beta-android_x86_64-OFFICIAL-20180803-1436_k4.16.8-ipts-blissified-ath_18.1.0-devel_w14_dev-kernel.org.iso",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/Bliss-v10.1-Beta-android_x86_64-OFFICIAL-20180803-1436_k4.16.8-ipts-blissified-ath_18.1.0-devel_w14_dev-kernel.org.iso",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/Bliss-v10.1-Beta-android_x86_64-OFFICIAL-20180803-1436_k4.16.8-ipts-blissified-ath_18.1.0-devel_w14_dev-kernel.org.iso.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2100379648,
+					"total": 2100379648,
+					"elapsed": 1526,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556307147,
+					"completed-time": 1556308673,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556307150
+						}
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/osdn.net\/projects\/manjaro\/storage\/kde\/18.0.4\/manjaro-kde-18.0.4-stable-x86_64.iso\/",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "manjaro-kde-18.0.4-stable-x86_64.iso",
+					"uri": "https:\/\/mirrors.tuna.tsinghua.edu.cn\/osdn\/storage\/g\/m\/ma\/manjaro\/kde\/18.0.4\/manjaro-kde-18.0.4-stable-x86_64.iso",
+					"file": "manjaro-kde-18.0.4-stable-x86_64.iso",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/manjaro-kde-18.0.4-stable-x86_64.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2310733824,
+					"total": 2310733824,
+					"elapsed": 1905,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556303383,
+					"completed-time": 1556305288,
+					"messages": [
+						{
+							"string": "Resumable",
+							"type": 2,
+							"time": 1556303385
+						}
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "antergos-19.4-x86_64.iso",
+					"uri": "http:\/\/mirror.yandex.ru\/mirrors\/cinnarch\/iso\/release\/antergos-19.4-x86_64.iso",
+					"file": "antergos-19.4-x86_64.iso",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/antergos-19.4-x86_64.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 0
+					}
+				},
+				"progress": {
+					"complete": 2195668992,
+					"total": 2195668992,
+					"elapsed": 601,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1556299977,
+					"completed-time": 1556301058,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Fedora-Silverblue-ostree-x86_64-30_Beta-1.8.iso",
+					"uri": "http:\/\/fedora.dionipe.id\/releases\/test\/30_Beta\/Silverblue\/x86_64\/iso\/Fedora-Silverblue-ostree-x86_64-30_Beta-1.8.iso",
+					"file": "Fedora-Silverblue-ostree-x86_64-30_Beta-1.8.iso",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 1536000,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/Fedora-Silverblue-ostree-x86_64-30_Beta-1.8.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

@@ -1,0 +1,64 @@
+[global]
+monitor = 0
+follow = mouse
+geometry = "400x60-20+48"
+indicate_hidden = yes
+shrink = yes
+separator_height = 1
+separator_color = frame
+padding = 24
+horizontal_padding = 24
+frame_width = 1
+sort = no
+idle_threshold = 120
+font = mononoki Nerd Font 9
+line_height = 4
+markup = full
+format = "<b>%s</b>\n%b"
+#format = %s\n%b
+alignment = left
+show_age_threshold = 60
+word_wrap = yes
+ignore_newline = no
+stack_duplicates = false
+hide_duplicate_count = yes
+show_indicators = no
+icon_position = right
+icon_folders = /usr/share/icons/Qogir-dark/16x16/status/:/usr/share/icons/Qogir-dark/16x16/devices/
+max_icon_size = 48
+sticky_history = yes
+history_length = 20
+browser = /usr/bin/firefox -new-tab
+always_run_script = true
+title = Dunst
+class = Dunst
+
+[shortcuts]
+#close = ctrl+space
+#close_all = ctrl+shift+space
+#history = ctrl+grave
+#context = ctrl+shift+period
+
+[urgency_low]
+timeout = 20
+#background = "#141c21"
+background = "#1e2430"
+#foreground = "#93a1a1"
+foreground = "#FF8E0A"
+frame_color = "#FF8E0A"
+
+[urgency_normal]
+timeout = 4
+#background = "#141c21"
+background = "#1e2430"
+#foreground = "#93a1a1"
+foreground = "#FF6A17"
+frame_color = "#FF6A17"
+
+[urgency_critical]
+timeout = 8
+#background = "#141c21"
+background = "#1e2430"
+#foreground = "#93a1a1"
+foreground = "#EF212E"
+frame_color = "#EF212E"
