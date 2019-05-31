@@ -11,7 +11,7 @@ font pango:mononoki Nerd Font 8
 floating_modifier $mod
 
 #Focus on Cursor
-focus_follows_mouse yes
+focus_follows_mouse no
 
 # start a terminal
 bindsym $mod+Return exec tilix
@@ -99,6 +99,7 @@ bindsym $mod+7 workspace $ws7
 bindsym $mod+8 workspace $ws8
 bindsym $mod+9 workspace $ws9
 bindsym $mod+0 workspace $ws10
+bindsym $mod+Shift+Tab workspace back_and_forth
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $ws1
@@ -152,14 +153,10 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-############################################################
-######################## Dropdown ##########################
-############################################################
 #for_window [instance="dropdown"] floating enable
 #for_window [instance="dropdown"] resize set 400 300
 #for_window [instance="dropdown"] move scratchpad
 #for_window [instance="dropdown"] border pixel 4
-#exec --no-startup-id $term --quake
 
 ############################################################
 ###################### Program Exec ########################
@@ -177,6 +174,7 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh
 #exec_always --no-startup-id flashfocus
 exec --no-startup-id uget-gtk
 exec --no-startup-id megasync
+exec --no-startup-id greenclip daemon
 
 ############################################################
 #################### Custom Setting ########################
@@ -189,18 +187,18 @@ exec --no-startup-id megasync
 
 # class                 border  bground text    indicator child_border
 #Border same as background
-client.focused          #1e2430 #1e2430 #FFFFFF #1e2430   #1e2430
-client.focused_inactive #1e2430 #1e2430 #FFFFFF #1e2430   #1e2430
-client.unfocused        #333333 #1e2430 #888888 #292D2E   #222222
-client.urgent           #EF212E #1e2430 #FFFFFF #EF212E   #EF212E
-client.placeholder      #000000 #1e2430 #FFFFFF #000000   #0C0C0C
-
-#Orange Border
-#client.focused          #FF8E0A #1e2430 #FFFFFF #FF8E0A   #FF8E0A
+#client.focused          #1e2430 #1e2430 #FFFFFF #1e2430   #1e2430
 #client.focused_inactive #1e2430 #1e2430 #FFFFFF #1e2430   #1e2430
 #client.unfocused        #333333 #1e2430 #888888 #292D2E   #222222
 #client.urgent           #EF212E #1e2430 #FFFFFF #EF212E   #EF212E
 #client.placeholder      #000000 #1e2430 #FFFFFF #000000   #0C0C0C
+
+#Orange Border
+client.focused          #FF8E0A #1e2430 #FFFFFF #FF8E0A   #FF8E0A
+client.focused_inactive #1e2430 #1e2430 #FFFFFF #1e2430   #1e2430
+client.unfocused        #1e2430 #1e2430 #888888 #292D2E   #1e2430
+client.urgent           #EF212E #1e2430 #FFFFFF #EF212E   #EF212E
+client.placeholder      #000000 #1e2430 #FFFFFF #000000   #0C0C0C
 
 #custom settings
 #hide_edge_borders both
@@ -235,15 +233,23 @@ bindsym Print exec --no-startup-id "scrot '%Y-%m-%d_%H:%M:%S_dimmed_scr.png' -q 
 #Tilix Quake
 bindsym grave exec --no-startup-id tilix --quake
 
-
-#Suspend
-bindsym $mod+Shift+Delete exec --no-startup-id betterlockscreen -s
-
 #Rofi Window Switcher
 bindsym $mod+Tab exec --no-startup-id rofi -show window
 
 #bindsym $mod+n exec --no-startup-id flash_window
 
+#Greenclip
+bindsym $mod+Insert exec --no-startup-id rofi -lines 10 -width 40 -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
+
+#Move Floating Window to Center
+bindsym $mod+Delete move position center
+
+#Power Button Config
+bindsym XF86PowerOff exec --no-startup-id ~/.config/polybar/scripts/powermenu
+
+#bindsym $mod+Home exec --no-startup-id nautilus
+
+#tilix -t 'update' -e notify-send 'Starting Update' && pug && notify-send 'Update Finished'
 ############################################################
 ################ Floating Windows ########################## 
 ############################################################
@@ -254,7 +260,24 @@ for_window [class="Pamac-manager"] floating enable
 for_window [class="qt5ct"] floating enable sticky enable border normal
 for_window [class="Uget-gtk"] floating enable
 for_window [class="megasync"] floating enable
+for_window [window_role="pop-up"] floating enable
+for_window [window_role="bubble"] floating enable
+for_window [window_role="task_dialog"] floating enable
+for_window [window_role="Preferences"] floating enable
+for_window [window_type="dialog"] floating enable
+for_window [window_type="menu"] floating enable
 
+for_window [instance="dropdown"] floating enable
+for_window [instance="dropdown"] resize set 600 400
+for_window [instance="dropdown"] move scratchpad
+for_window [instance="dropdown"] sticky enable
+for_window [instance="dropdown"] scratchpad show
+for_window [instance="dropdown"] border pixel 3
+for_window [instance="dropdown"] move position center
+
+bindsym $mod+Shift+Delete floating toggle
+bindsym $mod+Shift+Home move scratchpad
+bindsym $mod+Home scratchpad show
 ############################################################
 ####################### i3 Gnome ########################## 
 ############################################################
