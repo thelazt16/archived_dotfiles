@@ -163,18 +163,20 @@ bindsym $mod+r mode "resize"
 ############################################################
 exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpaper/mountain2.png
 
-exec_always --no-startup-id amixer -q sset Master 80%
 exec --no-startup-id compton -b &
-#exec --no-startup-id blueman-applet &
 exec --no-startup-id nm-applet &
 #exec --no-startup-id redshift-gtk &
-exec --no-startup-id dunst
+exec --no-startup-id dunst &
+exec --no-startup-id amixer -q sset Master 80%
 
 exec_always --no-startup-id ~/.config/polybar/launch.sh
-#exec_always --no-startup-id flashfocus
 exec --no-startup-id uget-gtk
+exec --no-startup-id uget-integrator-firefox
+exec --no-startup-id uget-integrator
 exec --no-startup-id megasync
 exec --no-startup-id greenclip daemon
+
+#Not in Use
 
 ############################################################
 #################### Custom Setting ########################
@@ -212,10 +214,19 @@ smart_borders on
 #workspace 5 gaps inner 0
 #workspace 5 gaps outer 0
 
-# Pulse Audio controls
-bindsym XF86AudioRaiseVolume exec --no-startup-id amixer -q sset Master -q 5%+ unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Up : $(amixer sget Master | grep 'Right:' | awk -F'[][]' '{ print $2 }')"
-bindsym XF86AudioLowerVolume exec --no-startup-id amixer -q sset Master -q 5%- unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Down : $(amixer sget Master | grep 'Right:' | awk -F'[][]' '{ print $2 }')"
-bindsym XF86AudioMute exec --no-startup-id amixer -q sset Master toggle && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "$(sh ~/.scripts/detectmute.sh)"
+# Alsa Audio Controls
+#bindsym XF86AudioRaiseVolume exec --no-startup-id amixer -q sset Master -q 5%+ unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Up : $(amixer sget Master | grep 'Right:' | awk -F'[][]' '{ print $2 }')"
+
+#bindsym XF86AudioLowerVolume exec --no-startup-id amixer -q sset Master -q 5%- unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Down : $(amixer sget Master | grep 'Right:' | awk -F'[][]' '{ print $2 }')"
+
+#bindsym XF86AudioMute exec --no-startup-id amixer -q sset Master toggle && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "$(sh ~/.scripts/detectmutealsa.sh)"
+
+# Pulse Audio Controls
+bindsym XF86AudioRaiseVolume exec --no-startup-id pulsemixer --id 0 --change-volume +5 --unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Up : $(pulsemixer --id 0 --get-volume | grep '' | awk -F' ' '{print $2}')"
+
+bindsym XF86AudioLowerVolume exec --no-startup-id pulsemixer --id 0 --change-volume -5 --unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Down : $(pulsemixer --id 0 --get-volume | grep '' | awk -F' ' '{print $2}')"
+
+bindsym XF86AudioMute exec --no-startup-id pulsemixer --id 0 --toggle-mute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "$(sh ~/.scripts/detectmutepulse.sh)"
 
 #Backlight Control
 bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight +1 && notify-send --urgency=low --hint=string:x-dunst-stack-tag:brightness "Brightness Up : $(xbacklight -get)"
