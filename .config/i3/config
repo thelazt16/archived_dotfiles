@@ -165,9 +165,7 @@ exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpaper/mountain2.png
 
 exec --no-startup-id compton -b &
 exec --no-startup-id nm-applet &
-#exec --no-startup-id redshift-gtk &
 exec --no-startup-id dunst &
-exec --no-startup-id amixer -q sset Master 80%
 
 exec_always --no-startup-id ~/.config/polybar/launch.sh
 exec --no-startup-id uget-gtk
@@ -177,7 +175,8 @@ exec --no-startup-id megasync
 exec --no-startup-id greenclip daemon
 
 #Not in Use
-
+#exec --no-startup-id redshift-gtk &
+#exec --no-startup-id amixer -q sset Master 80%
 ############################################################
 #################### Custom Setting ########################
 ############################################################
