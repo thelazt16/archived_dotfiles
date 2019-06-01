@@ -244,7 +244,7 @@ bindsym $mod+Insert exec --no-startup-id rofi -lines 10 -width 40 -modi "clipboa
 bindsym $mod+Delete move position center
 
 #Power Button Config
-bindsym XF86PowerOff exec --no-startup-id ~/.config/polybar/scripts/powermenu
+bindsym XF86PowerOff exec --no-startup-id ~/.scripts/powermenu
 
 #bindsym $mod+Home exec --no-startup-id nautilus
 
