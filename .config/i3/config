@@ -153,11 +153,6 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-#for_window [instance="dropdown"] floating enable
-#for_window [instance="dropdown"] resize set 400 300
-#for_window [instance="dropdown"] move scratchpad
-#for_window [instance="dropdown"] border pixel 4
-
 ############################################################
 ###################### Program Exec ########################
 ############################################################
