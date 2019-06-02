@@ -6,3 +6,5 @@ This is my current Arch Linux dotfiles, some of the configuration is made or mod
 
 ![Preview 1](https://raw.githubusercontent.com/thelazt16/dotfiles/master/preview/sc01.png)
 ![Preview 2](https://raw.githubusercontent.com/thelazt16/dotfiles/master/preview/sc02.png)
+![Preview 2](https://raw.githubusercontent.com/thelazt16/dotfiles/master/preview/sc03.png)
+
