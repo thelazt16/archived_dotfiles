@@ -52,6 +52,74 @@
 		{
 			"data": {
 				"relation": {
+					"group": 3,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 49086464,
+					"total": 738830124,
+					"elapsed": 176,
+					"uploaded": 0,
+					"percent": 6
+				},
+				"log": {
+					"added-time": 1559477435,
+					"completed-time": 0,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/oload.stream\/f\/HPTasi4hNHY\/Tembang.Lingsir.2019.WEB-DL.720p.FMZM.mkv",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Tembang.Lingsir.2019.WEB-DL.720p.FMZM.mkv",
+					"uri": "https:\/\/1fizorr.oloadcdn.net\/dl\/l\/J0v6veO5DTEhofeh\/HPTasi4hNHY\/Tembang.Lingsir.2019.WEB-DL.720p.FMZM.mkv",
+					"file": "Tembang.Lingsir.2019.WEB-DL.720p.FMZM.mkv",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Tembang.Lingsir.2019.WEB-DL.720p.FMZM.mkv",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Tembang.Lingsir.2019.WEB-DL.720p.FMZM.mkv.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
 					"group": 72,
 					"task": {
 						"plugin-name": "aria2",
