@@ -40,7 +40,7 @@ class = Dunst
 #context = ctrl+shift+period
 
 [urgency_low]
-timeout = 20
+timeout = 2
 #background = "#141c21"
 background = "#1e2430"
 #foreground = "#93a1a1"

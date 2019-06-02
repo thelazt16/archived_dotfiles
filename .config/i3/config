@@ -20,7 +20,7 @@ bindsym $mod+Return exec tilix
 bindsym $mod+Shift+q kill
 
 # start rofi (a program launcher)
-bindsym $mod+d exec --no-startup-id "rofi -modi run,drun -show drun -location 1 -xoffset 5 -yoffset 33 -lines 5 -padding 25 -hide-scrollbar -show-icons -drun-icon-theme"
+bindsym $mod+d exec --no-startup-id $HOME/.config/polybar/scripts/launcher-alt
 
 #bindsym $mod+d exec rofi -show drun
 bindsym $mod+backslash exec --no-startup-id rofi -show drun -run-command 'gksudo {cmd}'
@@ -156,13 +156,14 @@ bindsym $mod+r mode "resize"
 ############################################################
 ###################### Program Exec ########################
 ############################################################
+
 exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpaper/mountain2.png
 
 exec --no-startup-id compton -b &
 exec --no-startup-id nm-applet &
 exec --no-startup-id dunst &
 
-exec_always --no-startup-id ~/.config/polybar/launch.sh
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec --no-startup-id uget-gtk
 exec --no-startup-id uget-integrator-firefox
 exec --no-startup-id uget-integrator
@@ -172,6 +173,7 @@ exec --no-startup-id greenclip daemon
 #Not in Use
 #exec --no-startup-id redshift-gtk &
 #exec --no-startup-id amixer -q sset Master 80%
+
 ############################################################
 #################### Custom Setting ########################
 ############################################################
@@ -207,14 +209,14 @@ smart_borders on
 
 #bindsym XF86AudioLowerVolume exec --no-startup-id amixer -q sset Master -q 5%- unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Down : $(amixer sget Master | grep 'Right:' | awk -F'[][]' '{ print $2 }')"
 
-#bindsym XF86AudioMute exec --no-startup-id amixer -q sset Master toggle && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "$(sh ~/.scripts/detectmutealsa.sh)"
+#bindsym XF86AudioMute exec --no-startup-id amixer -q sset Master toggle && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "$(sh $HOME/.scripts/detectmutealsa.sh)"
 
 # Pulse Audio Controls
 bindsym XF86AudioRaiseVolume exec --no-startup-id pulsemixer --id 0 --change-volume +5 --unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Up : $(pulsemixer --id 0 --get-volume | grep '' | awk -F' ' '{print $2}')"
 
 bindsym XF86AudioLowerVolume exec --no-startup-id pulsemixer --id 0 --change-volume -5 --unmute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "Volume Down : $(pulsemixer --id 0 --get-volume | grep '' | awk -F' ' '{print $2}')"
 
-bindsym XF86AudioMute exec --no-startup-id pulsemixer --id 0 --toggle-mute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "$(sh ~/.scripts/detectmutepulse.sh)"
+bindsym XF86AudioMute exec --no-startup-id pulsemixer --id 0 --toggle-mute && notify-send --urgency=low --hint=string:x-dunst-stack-tag:volume "$(sh $HOME/.scripts/detectmutepulse.sh)"
 
 #Backlight Control
 bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight +1 && notify-send --urgency=low --hint=string:x-dunst-stack-tag:brightness "Brightness Up : $(xbacklight -get)"
@@ -227,7 +229,7 @@ bindsym XF86AudioPrev exec --no-startup-id playerctl previous
 bindsym XF86AudioStop exec --no-startup-id playerctl stop
 
 #Screenshot
-bindsym Print exec --no-startup-id "scrot '%Y-%m-%d_%H:%M:%S_dimmed_scr.png' -q 85  -e 'mv $f ~/Pictures/Screenshots/'; notify-send --urgency=low --hint=string:x-dunst-stack-tag:scrot 'Screenshot Taken'"
+bindsym Print exec --no-startup-id "scrot '%Y-%m-%d_%H:%M:%S_dimmed_scr.png' -q 85  -e 'mv $f $HOME/Pictures/Screenshots/'; notify-send --urgency=low --hint=string:x-dunst-stack-tag:scrot 'Screenshot Taken'"
 
 #Tilix Quake
 bindsym grave exec --no-startup-id tilix --quake
@@ -244,14 +246,14 @@ bindsym $mod+Insert exec --no-startup-id rofi -lines 10 -width 40 -modi "clipboa
 bindsym $mod+Delete move position center
 
 #Power Button Config
-bindsym XF86PowerOff exec --no-startup-id ~/.scripts/powermenu
+bindsym XF86PowerOff exec --no-startup-id $HOME/.scripts/powermenu
 
 #bindsym $mod+Home exec --no-startup-id nautilus
 
-#tilix -t 'update' -e notify-send 'Starting Update' && pug && notify-send 'Update Finished'
 ############################################################
 ################ Floating Windows ########################## 
 ############################################################
+
 for_window [class="Lxappearance"] floating enable sticky enable border normal
 for_window [class="Oblogout"] fullscreen enable
 for_window [class="Pamac-manager"] floating enable
@@ -266,17 +268,10 @@ for_window [window_role="Preferences"] floating enable
 for_window [window_type="dialog"] floating enable
 for_window [window_type="menu"] floating enable
 
-for_window [instance="dropdown"] floating enable
-for_window [instance="dropdown"] resize set 600 400
-for_window [instance="dropdown"] move scratchpad
-for_window [instance="dropdown"] sticky enable
-for_window [instance="dropdown"] scratchpad show
-for_window [instance="dropdown"] border pixel 3
-for_window [instance="dropdown"] move position center
-
 bindsym $mod+Shift+Delete floating toggle
 bindsym $mod+Shift+Home move scratchpad
 bindsym $mod+Home scratchpad show
+
 ############################################################
 ####################### i3 Gnome ########################## 
 ############################################################

@@ -53,6 +53,485 @@
 					}
 				},
 				"progress": {
+					"complete": 219335283,
+					"total": 219335283,
+					"elapsed": 3163,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559399907,
+					"completed-time": 1559403070,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/dbupload.in\/f\/auvuh0-psbzatbye6ptc",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Marvel's.Agents.of.S.H.I.E.L.D.S06E04.Code.Yellow.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/s6.hubfiles.club:182\/d\/e7hvfnmiurvhkjtufr5e2xq7cjtatvjyqa5k7otfx7nk6pno2e7e6jssc6j2rrr7yzcnutcs\/Marvel's.Agents.of.S.H.I.E.L.D.S06E04.Code.Yellow.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Marvel's.Agents.of.S.H.I.E.L.D.S06E04.Code.Yellow.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 11,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Agents.of.S.H.I.E.L.D.S06E04.Code.Yellow.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Agents.of.S.H.I.E.L.D.S06E04.Code.Yellow.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 359656550,
+					"total": 359656550,
+					"elapsed": 935,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559390850,
+					"completed-time": 1559391786,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/Ki6T0dNuQIM\/Swamp.Thing.2019.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Swamp.Thing.2019.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorm.oloadcdn.net\/dl\/l\/LpJBIWZNZTU_aAMy\/Ki6T0dNuQIM\/Swamp.Thing.2019.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Swamp.Thing.2019.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Swamp.Thing.2019.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Swamp.Thing.2019.S01E01.Pilot.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 928062335,
+					"total": 928062335,
+					"elapsed": 542,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559331830,
+					"completed-time": 1559332374,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/E5krZXPxAcI\/Rick.and.Morty.SEASON.02.S02.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.SEASON.02.S02.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorp.oloadcdn.net\/dl\/l\/q1_0WCm80pAEioxT\/E5krZXPxAcI\/Rick.and.Morty.SEASON.02.S02.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.SEASON.02.S02.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.SEASON.02.S02.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.SEASON.02.S02.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 920491504,
+					"total": 920491504,
+					"elapsed": 436,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559330906,
+					"completed-time": 1559331342,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/MjrlEpo1dOc\/Rick.and.Morty.SEASON.01.S01.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.SEASON.01.S01.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizorq.oloadcdn.net\/dl\/l\/I0JSX7vbDw3MQPPA\/MjrlEpo1dOc\/Rick.and.Morty.SEASON.01.S01.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.SEASON.01.S01.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.SEASON.01.S01.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.SEASON.01.S01.COMPLETE.720p.BluRay.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 204915502,
+					"total": 204915502,
+					"elapsed": 338,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559325877,
+					"completed-time": 1559326217,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www22.zippyshare.com\/v\/6nZNIFVc\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/654A8B00.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "In.the.Dark.2019.S01E09.Deal.Or.No.Deal.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www22.zippyshare.com\/d\/6nZNIFVc\/588736\/In.the.Dark.2019.S01E09.Deal.Or.No.Deal.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "In.the.Dark.2019.S01E09.Deal.Or.No.Deal.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E09.Deal.Or.No.Deal.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/In.the.Dark.2019.S01E09.Deal.Or.No.Deal.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 173064869,
+					"total": 173064869,
+					"elapsed": 179,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559246868,
+					"completed-time": 1559247048,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/openload.co\/f\/nR_W5IFzi3Y\/The.Twilight.Zone.2019.S01E10.Blurryman.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/5ABD547F.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "The.Twilight.Zone.2019.S01E10.Blurryman.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/1fizoru.oloadcdn.net\/dl\/l\/usrW3qpU7xTDsCq-\/nR_W5IFzi3Y\/The.Twilight.Zone.2019.S01E10.Blurryman.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "The.Twilight.Zone.2019.S01E10.Blurryman.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E10.Blurryman.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/The.Twilight.Zone.2019.S01E10.Blurryman.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 136995638,
+					"total": 136995638,
+					"elapsed": 715,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559233991,
+					"completed-time": 1559234707,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "http:\/\/3zfile.net\/stvn3gmhwwtl",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1B919816.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "What.We.Do.in.the.Shadows.S01E09.The.Orgy.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "http:\/\/fs3.3zfile.net:182\/d\/ercrj2jpef7gw4lsjz7luyjkzmbjbi2dqrwxju4a3ncl46wetlorqc5nbyzepnl6nzmtihum\/What.We.Do.in.the.Shadows.S01E09.The.Orgy.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "What.We.Do.in.the.Shadows.S01E09.The.Orgy.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/What.We.Do.in.the.Shadows.S01E09.The.Orgy.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/What.We.Do.in.the.Shadows.S01E09.The.Orgy.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
 					"complete": 841054484,
 					"total": 841054484,
 					"elapsed": 4067,
@@ -5721,6 +6200,75 @@
 						},
 						{
 							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Marvel's.Cloak.and.Dagger.S01E01.First.Light.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 136,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 210527993,
+					"total": 210527993,
+					"elapsed": 385,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559367287,
+					"completed-time": 1559367672,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www51.zippyshare.com\/v\/2f7b5mfY\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/38447AB2.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "iZombie.S05E05.Death.Moves.Pretty.Fast.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www51.zippyshare.com\/d\/2f7b5mfY\/236721\/iZombie.S05E05.Death.Moves.Pretty.Fast.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "iZombie.S05E05.Death.Moves.Pretty.Fast.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E05.Death.Moves.Pretty.Fast.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/iZombie.S05E05.Death.Moves.Pretty.Fast.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
 							"type": 3,
 							"state": 0,
 							"total": 0,

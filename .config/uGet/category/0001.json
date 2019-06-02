@@ -59,6 +59,1424 @@
 					}
 				},
 				"progress": {
+					"complete": 65824519,
+					"total": 65824519,
+					"elapsed": 224,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559455082,
+					"completed-time": 1559455307,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www44.zippyshare.com\/v\/zB5bGIep\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1F1AA75B.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "oploverz - 887 [x265] [MINI].mkv",
+					"uri": "https:\/\/www44.zippyshare.com\/d\/zB5bGIep\/422021\/oploverz%20-%20887%20%5bx265%5d%20%5bMINI%5d.mkv",
+					"file": "oploverz - 887 [x265] [MINI].mkv",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - 887 [x265] [MINI].mkv",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - 887 [x265] [MINI].mkv.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 127421783,
+					"total": 127421783,
+					"elapsed": 312,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559436334,
+					"completed-time": 1559436646,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "tsuma-ga-kirei-ni-natta-wake-2-720p-v1x.mp4",
+					"uri": "http:\/\/p22.leaseweb-cdn.com\/dl-user\/2\/2\/3\/2\/v1x\/dist\/tsuma-ga-kirei-ni-natta-wake-2-720p-v1x.mp4?md5=mOiDv1Q4Za7NmRN8gufn0g&expires=1559447126",
+					"file": "tsuma-ga-kirei-ni-natta-wake-2-720p-v1x.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/tsuma-ga-kirei-ni-natta-wake-2-720p-v1x.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/tsuma-ga-kirei-ni-natta-wake-2-720p-v1x.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 42927702,
+					"total": 42927702,
+					"elapsed": 42,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559434080,
+					"completed-time": 1559434123,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www61.zippyshare.com\/v\/J0OyDtID\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/65E9845.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "oploverz - Ekor Peri 311 [x265] [MINI].mkv",
+					"uri": "https:\/\/www61.zippyshare.com\/d\/J0OyDtID\/413630\/oploverz%20-%20Ekor%20Peri%20311%20%5bx265%5d%20%5bMINI%5d.mkv",
+					"file": "oploverz - Ekor Peri 311 [x265] [MINI].mkv",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - Ekor Peri 311 [x265] [MINI].mkv",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - Ekor Peri 311 [x265] [MINI].mkv.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 54881270,
+					"total": 54881270,
+					"elapsed": 66,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559432119,
+					"completed-time": 1559432185,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www65.zippyshare.com\/v\/GQ5xzRA7\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/35014D32.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "oploverz - KnY 09 [x265] [MINI].mkv",
+					"uri": "https:\/\/www65.zippyshare.com\/d\/GQ5xzRA7\/508962\/oploverz%20-%20KnY%2009%20%5bx265%5d%20%5bMINI%5d.mkv",
+					"file": "oploverz - KnY 09 [x265] [MINI].mkv",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - KnY 09 [x265] [MINI].mkv",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - KnY 09 [x265] [MINI].mkv.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 90274815,
+					"total": 90274815,
+					"elapsed": 113,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559407662,
+					"completed-time": 1559407777,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.12 - Ma-Sha - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/6\/c\/0\/xvideos.com_6c015d677b0f7f90fd205b5595c88620.mp4?e=1559418455&h=d9ebcf978df72bb5d12e3c466c9534a2&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.12 - Ma-Sha - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.12 - Ma-Sha - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 90274815,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.12 - Ma-Sha - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 92444190,
+					"total": 92444190,
+					"elapsed": 123,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559407499,
+					"completed-time": 1559407623,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.11 - Gazorpazorp - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/a\/9\/d\/xvideos.com_a9dfd2ed73de9b920923399ee360dd26.mp4?e=1559418293&h=b7f1352e9ffa1cbc150c7919b4d4f028&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.11 - Gazorpazorp - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.11 - Gazorpazorp - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 92444190,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.11 - Gazorpazorp - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 120996719,
+					"total": 120996719,
+					"elapsed": 139,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559407339,
+					"completed-time": 1559407478,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.10 - Winner! - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/8\/b\/0\/xvideos.com_8b08aaf5ac9305af738699b09f171bf5.mp4?e=1559418132&h=a4394813053d64e5bdf6acb8766a95e8&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.10 - Winner! - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.10 - Winner! - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 120996719,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.10 - Winner! - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 89201787,
+					"total": 89201787,
+					"elapsed": 207,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559407088,
+					"completed-time": 1559407295,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.9 - Blinding Light! - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/0\/6\/d\/xvideos.com_06df4486db1234a829c5f78806bd88a9.mp4?e=1559417879&h=42cf7638c9a2b7e4646d82d5f0df7e7c&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.9 - Blinding Light! - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.9 - Blinding Light! - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 89201787,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.9 - Blinding Light! - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 102057198,
+					"total": 102057198,
+					"elapsed": 95,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559406965,
+					"completed-time": 1559407061,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.8 - Pumpkin Dance Party - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/e\/2\/5\/xvideos.com_e25286d2d210336b936608e03f681637.mp4?e=1559417759&h=8ce4d6a99ec8d6be0dbbffdb7c22da1f&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.8 - Pumpkin Dance Party - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.8 - Pumpkin Dance Party - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 102057198,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.8 - Pumpkin Dance Party - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 149783001,
+					"total": 149783001,
+					"elapsed": 252,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559406600,
+					"completed-time": 1559406852,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.7 - Pickle Morty! - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/1\/4\/3\/xvideos.com_143c19437e6c28f21245e68498c4df59.mp4?e=1559417387&h=884572c4770e890a6a17f8bbf666ad79&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.7 - Pickle Morty! - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.7 - Pickle Morty! - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 149783001,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.7 - Pickle Morty! - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 92816093,
+					"total": 92816093,
+					"elapsed": 171,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559406381,
+					"completed-time": 1559406552,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.6 - HE'S A VAMPIRE! - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/6\/5\/2\/xvideos.com_6528584b14210eb3dd87f0f466f70487.mp4?e=1559417174&h=e9fe669bfe953805d2776f3191eaa52a&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.6 - HE'S A VAMPIRE! - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.6 - HE'S A VAMPIRE! - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 92816093,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.6 - HE'S A VAMPIRE! - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 91469974,
+					"total": 91469974,
+					"elapsed": 142,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559406192,
+					"completed-time": 1559406335,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.5 - Truth  Dare - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/4\/c\/3\/xvideos.com_4c36e09b072689bf67381afe7eb145bc.mp4?e=1559416980&h=7d4cda9093f75f292398fe6439657fbc&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.5 - Truth  Dare - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.5 - Truth  Dare - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 91469974,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.5 - Truth  Dare - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 88266992,
+					"total": 88266992,
+					"elapsed": 196,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559405939,
+					"completed-time": 1559406135,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.4 - Rick's Quest - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/e\/b\/0\/xvideos.com_eb0d6204bcb63d0eb87214902c61a0a0.mp4?e=1559416730&h=ccea0f85abbb9954dc8542be34f76ede&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.4 - Rick's Quest - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 1,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.4 - Rick's Quest - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 88266992,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.4 - Rick's Quest - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 117807328,
+					"total": 117807328,
+					"elapsed": 243,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559405662,
+					"completed-time": 1559405906,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.3 - Summer Help! - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/5\/3\/4\/xvideos.com_534bf2d6998e1b579a71dffb9aae9934.mp4?e=1559416440&h=f5deb9ed1a3890219d0dd5ef317efd66&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.3 - Summer Help! - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.3 - Summer Help! - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 117807328,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.3 - Summer Help! - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 80439223,
+					"total": 80439223,
+					"elapsed": 127,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559405532,
+					"completed-time": 1559405661,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home  Ep.2 - A Weird Curse - XVIDEOS.COM.mp4",
+					"uri": "https:\/\/video-hw.xvideos-cdn.com\/videos\/mp4\/a\/1\/d\/xvideos.com_a1d3a6d61f86524d9f20c3930be637fe.mp4?e=1559416313&h=611787a0074d28af6174fe5a6d7e105c&download=1",
+					"file": "Rick and Morty_ A Way Back Home  Ep.2 - A Weird Curse - XVIDEOS.COM.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.2 - A Weird Curse - XVIDEOS.COM.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 80439223,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home  Ep.2 - A Weird Curse - XVIDEOS.COM.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 107086963,
+					"total": 107086963,
+					"elapsed": 958,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559403878,
+					"completed-time": 1559404837,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=ph5c978bdd8429d",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick and Morty_ A Way Back Home _ Ep.1 - Lacking Confidence .mp4",
+					"uri": "https:\/\/dd2.phncdn.com\/videos\/201903\/24\/214739502\/720P_1500K_214739502.mp4?ttl=1559407441&ri=1843200&rs=872&hash=0785eaeadc231338773a7775b87efa10",
+					"file": "Rick and Morty_ A Way Back Home _ Ep.1 - Lacking Confidence .mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home _ Ep.1 - Lacking Confidence .mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Rick and Morty_ A Way Back Home _ Ep.1 - Lacking Confidence .mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 71330403,
+					"total": 71330403,
+					"elapsed": 97,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559340704,
+					"completed-time": 1559340801,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www75.zippyshare.com\/v\/HAdkeC3J\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3E7C4830.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "[AWSubs] Drr - 20 [480p][FC3A4F18].mkv",
+					"uri": "https:\/\/www75.zippyshare.com\/d\/HAdkeC3J\/364953\/%5bAWSubs%5d%20Drr%20-%2020%20%5b480p%5d%5bFC3A4F18%5d.mkv",
+					"file": "[AWSubs] Drr - 20 [480p][FC3A4F18].mkv",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/[AWSubs] Drr - 20 [480p][FC3A4F18].mkv",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/[AWSubs] Drr - 20 [480p][FC3A4F18].mkv.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 82022456,
+					"total": 82022456,
+					"elapsed": 70,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559331302,
+					"completed-time": 1559331373,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/64C9C9.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "oploverz - BSD 08 [mini] [64146BB0].mkv",
+					"uri": "https:\/\/www33.zippyshare.com\/d\/csmnOUpJ\/437358\/oploverz%20-%20BSD%2008%20%5bmini%5d%20%5b64146BB0%5d.mkv",
+					"file": "oploverz - BSD 08 [mini] [64146BB0].mkv",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - BSD 08 [mini] [64146BB0].mkv",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - BSD 08 [mini] [64146BB0].mkv.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 53401178,
+					"total": 53401178,
+					"elapsed": 110,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559328680,
+					"completed-time": 1559328791,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "[XAnimePorn][480p]1702.mp4",
+					"uri": "http:\/\/download.xanimeporn.com\/videos\/480p\/[480p]1702.mp4?s=VVZCEGCQvhIHJWt4maoXNg&e=1559336133&file=[XAnimePorn][480p]1702.mp4",
+					"file": "[XAnimePorn][480p]1702.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/[XAnimePorn][480p]1702.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/[XAnimePorn][480p]1702.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 200862171,
+					"total": 200862171,
+					"elapsed": 128,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559327818,
+					"completed-time": 1559327967,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "megane-no-megami-1-720p-v1x.mp4",
+					"uri": "http:\/\/p22.leaseweb-cdn.com\/dl-user\/2\/2\/3\/1\/v1x\/dist\/megane-no-megami-1-720p-v1x.mp4?md5=ggsLgyhj-wcCQlXHGcEsmQ&expires=1559338613",
+					"file": "megane-no-megami-1-720p-v1x.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/megane-no-megami-1-720p-v1x.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/megane-no-megami-1-720p-v1x.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 881398471,
+					"total": 881398471,
+					"elapsed": 3379,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559304479,
+					"completed-time": 1559307882,
+					"messages": [
+					]
+				},
+				"http": {
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1DE32039.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "MDB-718 Housewives Of Frustration Attend Nude Drawing Classroom Rena Fukiishi Mizuno Chaoyang Chitose Hara Haneda Riko.mp4",
+					"uri": "https:\/\/www1500.hlsmp4.com\/token=F7DsgrVovACRaVOqRDmsUQ\/1559318779\/0.0.0.0\/9\/a\/0e\/6748ba5965779b501aa79e31218e00ea-480p.mp4",
+					"file": "MDB-718 Housewives Of Frustration Attend Nude Drawing Classroom Rena Fukiishi Mizuno Chaoyang Chitose Hara Haneda Riko.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 15,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/MDB-718 Housewives Of Frustration Attend Nude Drawing Classroom Rena Fukiishi Mizuno Chaoyang Chitose Hara Haneda Riko.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/MDB-718 Housewives Of Frustration Attend Nude Drawing Classroom Rena Fukiishi Mizuno Chaoyang Chitose Hara Haneda Riko.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
 					"complete": 132866292,
 					"total": 132866292,
 					"elapsed": 863,
@@ -18899,1431 +20317,29 @@
 		{
 			"data": {
 				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 3184933,
-					"total": 3184933,
-					"elapsed": 17,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556721055,
-					"completed-time": 1556721112,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556721103
-						}
-					]
-				},
-				"http": {
-					"referrer": "http:\/\/128.199.66.55\/bersama-miss-mitha-milf-bj\/",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "v.mp4.5",
-					"uri": "https:\/\/str21.vidoza.net\/x4lfxamswzzpvjumxa7uix2u7okxkr6ufhw37fyq62exnrd4oko6fufjtgtq\/v.mp4",
-					"file": "v.mp4.5",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/v.mp4.5",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 105216073,
-					"total": 105216073,
-					"elapsed": 152,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556720943,
-					"completed-time": 1556721095,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556720950
-						}
-					]
-				},
-				"http": {
-					"referrer": "http:\/\/128.199.66.55\/bh-abu-abu-sange-berat\/",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "v.mp4.1",
-					"uri": "https:\/\/cache19.vidoza.net\/x4lfzemswzzpvjumxa7uix2l6cedqrridttq47ker6s445idvk6tmgqxtnzq\/v.mp4",
-					"file": "v.mp4.1",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/v.mp4.1",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 853079,
-					"total": 853079,
-					"elapsed": 32,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556721019,
-					"completed-time": 1556721051,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556721036
-						}
-					]
-				},
-				"http": {
-					"referrer": "http:\/\/128.199.66.55\/bersama-miss-mitha-milf-wot\/",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "v.mp4.3",
-					"uri": "https:\/\/str18.vidoza.net\/x4lftaeswzzpvjumxa7uiwkd5xs74myk3vn2eii4lpzgcameovjnku6r4fsq\/v.mp4",
-					"file": "v.mp4.3",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/v.mp4.3",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 2416445,
-					"total": 2416445,
-					"elapsed": 16,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556720928,
-					"completed-time": 1556720944,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556720940
-						}
-					]
-				},
-				"http": {
-					"referrer": "http:\/\/128.199.66.55\/jilbab-ungu-remas-tete\/",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "v.mp4.0",
-					"uri": "https:\/\/cache12.vidoza.net\/x4lfzzmtwzzpvjumxa7uicar53fod2g2t4ufzv7z26j7syb5qyrmhpdjzgaq\/v.mp4",
-					"file": "v.mp4.0",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/v.mp4.0",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 5318112,
-					"total": 5318112,
-					"elapsed": 22,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556720860,
-					"completed-time": 1556720882,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556720869
-						}
-					]
-				},
-				"http": {
-					"referrer": "http:\/\/128.199.66.55\/jilbab-hitam-di-kenyot-susunya\/",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "v.mp4",
-					"uri": "https:\/\/cache07.vidoza.net\/x4lfzgmtwzzpvjumxa7uiucrv4lfdvbqctc2w4onpvujhd36gj5btpngm5pa\/jilbab-hitam-di-kenyot-susunya.mp4",
-					"file": "v.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/v.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 20603571,
-					"total": 20603571,
-					"elapsed": 15,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556720580,
-					"completed-time": 1556720595,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556720581
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.xnxx.com\/video-s463z71\/asian_hijab_hot_teen_sex_idsly.com_eiccf",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3608F50E.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "xvideos.com_2dbb82411035b4efaa5c9ec60127639c.mp4",
-					"uri": "https:\/\/video-hw.xnxx-cdn.com\/videos\/mp4\/2\/d\/b\/xvideos.com_2dbb82411035b4efaa5c9ec60127639c.mp4?e=1556731393&h=91da1acdb2ca8031c6778fab7d6cb208&download=1",
-					"file": "xvideos.com_2dbb82411035b4efaa5c9ec60127639c.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/xvideos.com_2dbb82411035b4efaa5c9ec60127639c.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 5394973,
-					"total": 5394973,
-					"elapsed": 9,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556720492,
-					"completed-time": 1556720501,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556720494
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.xnxx.com\/video-rc9hffd\/perawan_nikmat_rasakan_ml_fulvideo_https_ouo.io_zaodvs",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/716ED541.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "xvideos.com_c13314c6c9106339b9e5f5802f4b3436.mp4",
-					"uri": "https:\/\/video-hw.xnxx-cdn.com\/videos\/mp4\/c\/1\/3\/xvideos.com_c13314c6c9106339b9e5f5802f4b3436.mp4?e=1556731304&h=710047e917b84d21b48091bcf26e5f7c&download=1",
-					"file": "xvideos.com_c13314c6c9106339b9e5f5802f4b3436.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/xvideos.com_c13314c6c9106339b9e5f5802f4b3436.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 3442097,
-					"total": 3442097,
-					"elapsed": 6,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556720337,
-					"completed-time": 1556720343,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556720339
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.xnxx.com\/video-s8i3751\/mahasiswi_ngewe_dimobil",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/2A6D24AE.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "xvideos.com_8f07c3e6f53394c07e18b108ac265a0a.mp4",
-					"uri": "https:\/\/video-hw.xnxx-cdn.com\/videos\/mp4\/8\/f\/0\/xvideos.com_8f07c3e6f53394c07e18b108ac265a0a.mp4?e=1556731149&h=4fa300bec327cd8b5f848f4178d636eb&download=1",
-					"file": "xvideos.com_8f07c3e6f53394c07e18b108ac265a0a.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/xvideos.com_8f07c3e6f53394c07e18b108ac265a0a.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 7759700,
-					"total": 7759700,
-					"elapsed": 20,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556720315,
-					"completed-time": 1556720335,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556720316
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.xnxx.com\/video-rkbl3d5\/salam_pramuka_cantik_fullvideo_https_ouo.io_fuxmmg",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/C32C316.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "xvideos.com_3f08ac845705d1961ef9d70beb8205a2.mp4",
-					"uri": "https:\/\/video-hw.xnxx-cdn.com\/videos\/mp4\/3\/f\/0\/xvideos.com_3f08ac845705d1961ef9d70beb8205a2.mp4?e=1556731114&h=45171b9b63adcb25f3eaa72bf00a37b2&download=1",
-					"file": "xvideos.com_3f08ac845705d1961ef9d70beb8205a2.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/xvideos.com_3f08ac845705d1961ef9d70beb8205a2.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 2516055,
-					"total": 2516055,
-					"elapsed": 6,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556720214,
-					"completed-time": 1556720220,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556720215
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.xnxx.com\/video-sabjn40\/live_mesum_sama_pacar",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/60787643.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "xvideos.com_9718ae5365cada929cf73186bc17c886.mp4",
-					"uri": "https:\/\/video-hw.xnxx-cdn.com\/videos\/mp4\/9\/7\/1\/xvideos.com_9718ae5365cada929cf73186bc17c886.mp4?e=1556731028&h=69bac2be66034adc234b10c5fa997000&download=1",
-					"file": "xvideos.com_9718ae5365cada929cf73186bc17c886.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/xvideos.com_9718ae5365cada929cf73186bc17c886.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 48775419,
-					"total": 48775419,
-					"elapsed": 58,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556682076,
-					"completed-time": 1556682134,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556682085
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www69.zippyshare.com\/v\/XCKfBeCe\/file.html",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/2FC71029.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "oploverz - OPM S2 04 [x265] [MINI].mkv",
-					"uri": "https:\/\/www69.zippyshare.com\/d\/XCKfBeCe\/431377\/oploverz%20-%20OPM%20S2%2004%20%5bx265%5d%20%5bMINI%5d.mkv",
-					"file": "oploverz - OPM S2 04 [x265] [MINI].mkv",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/oploverz - OPM S2 04 [x265] [MINI].mkv",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 563761010,
-					"total": 563761010,
-					"elapsed": 1124,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556648880,
-					"completed-time": 1556650789,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556649666
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=ph5b6faef11d037",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/4CC6B3FF.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "480P_600K_178248541.mp4",
-					"uri": "https:\/\/dv.phncdn.com\/videos\/201808\/12\/178248541\/480P_600K_178248541.mp4?ttl=1556652480&ri=7168000&rs=984&hash=b39f2837ea7a11f6b135000dc29152b0",
-					"file": "480P_600K_178248541.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/480P_600K_178248541.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 170932979,
-					"total": 170932979,
-					"elapsed": 245,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556649557,
-					"completed-time": 1556650682,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556650437
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=ph5afcf42731298",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1C48FAD9.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "720P_1500K_166495341.mp4",
-					"uri": "https:\/\/cv.phncdn.com\/videos\/201805\/17\/166495341\/720P_1500K_166495341.mp4?88D7fc49d0hdHHLpQxnnl3-Mmn9fjfKBA6pgagppiYKtziCM-A9LHgLUzLOY-4d9mfTZrOeWACj6FzNrdZG22GojRuCd-8xKEm1_qhycwvflSb7FW2ZRJ8PCnLJRzUQImaC4FmZ_CO2wWVf3c6fxNZCfEKDoomYw2sfBLWenCwffZqnwOkzeamVgX22Klbw7ib_-HHgKz6M",
-					"file": "720P_1500K_166495341.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/720P_1500K_166495341.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 142353869,
-					"total": 142353869,
-					"elapsed": 172,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556649551,
-					"completed-time": 1556650603,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556650431
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=ph5b3d8b608ba59",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/8D0CA45.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "720P_1500K_173141211.mp4",
-					"uri": "https:\/\/cv.phncdn.com\/videos\/201807\/05\/173141211\/720P_1500K_173141211.mp4?I598Ktxx3MbelSQxc3I2ZVWGHNI5ggJSo0Gv8Pga1Caox_sCiDEV79rwU_lHBhA1HGtLLjziC4Sd3Wc1l84-8aBnPDiuSkV8KKJmPbWKpvUrHvhtk-UwId6ddqoZV8jAXLW-5I4BRYnH-vw3jcLa1YndBePjOTZf-IuJL-4Xwjh13TtYGwJDURQ3Fua0R7msg2oSi2k_YfU",
-					"file": "720P_1500K_173141211.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/720P_1500K_173141211.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 710922999,
-					"total": 710922999,
-					"elapsed": 3841,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556646596,
-					"completed-time": 1556650437,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556646602
-						}
-					]
-				},
-				"http": {
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "Gentayangan.2018.WEB-DL.720p.FMZM.mkv",
-					"uri": "http:\/\/i36.indiworlds.com:182\/d\/yqibj2uo7db4joaxi4dafmfmzf3ekxihnrcaqvvqo5gh2mkajr6dhakfkprzaipfi6u3uj4z\/Gentayangan.2018.WEB-DL.720p.FMZM.mkv",
-					"file": "Gentayangan.2018.WEB-DL.720p.FMZM.mkv",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Gentayangan.2018.WEB-DL.720p.FMZM.mkv",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 156502199,
-					"total": 156502199,
-					"elapsed": 192,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556649535,
-					"completed-time": 1556650431,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556650239
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=ph5c833865add68",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/2A860112.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "720P_1500K_212107752.mp4",
-					"uri": "https:\/\/cv.phncdn.com\/videos\/201903\/09\/212107752\/720P_1500K_212107752.mp4?mbSCVcHg1vyoPrJdG96aqe6OsykuJvhK-nGip8mnZAA2bYIhCjO8shVNJq4gvj64TBYkHv7XReOAUrH806FEDFngqpDb9MP9kI9cio0aA5-58WL9BeLedxFFgda1tE4WSa8gSajBXmXZ-wsL8yPAgHl6-X89t7Up5gAqinZF9bKayk8YW6m2yZZqFMiGhezI7NsiJfR9cvc",
-					"file": "720P_1500K_212107752.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/720P_1500K_212107752.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 89410809,
-					"total": 89410809,
-					"elapsed": 153,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556649510,
-					"completed-time": 1556650239,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556650087
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=ph5c793d501f7e2",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3047B0CA.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "480P_600K_210604631.mp4",
-					"uri": "https:\/\/cv.phncdn.com\/videos\/201903\/01\/210604631\/480P_600K_210604631.mp4?_xMll_Kv41wQLQFZVh-8gcshkbK1dw8ErXb1ptwcDJ2tukwENCTkvtF3bJavJk-xizdx30X6Hn8Eyjj68pB8sJh41kb1G08y7oJjlLIpltRerqaCsDDaiObbxhex2KdQOtEDNu3ey5-UtHFOk3V2YRO4TfIIPKM-DQ0hplOcKYSa3CEOZj-yh781_0TVCDGiEpKxUe3BTg",
-					"file": "480P_600K_210604631.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/480P_600K_210604631.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 219620622,
-					"total": 219620622,
-					"elapsed": 470,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556648775,
-					"completed-time": 1556650086,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556649617
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=ph5c20ac8181511",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7C7DC967.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "480P_600K_198276781.mp4",
-					"uri": "https:\/\/cv.phncdn.com\/videos\/201812\/24\/198276781\/480P_600K_198276781.mp4?n0hvwjPSxYNPPAv4ZUxdQJRgynw37x85bBFBS4gK25PpHSNuqENl27VzI-Au8mmrn-cerlyT1wfs5J4xQ4HgEFZ80c0aOsrVblrQAZN4JvPGnlWgdZv32czIhM97sHa0S6mXEJCTw5bKEzrjI2x49zTgPOjAcAzKrCsnsX5QJjtwcUCPbur1wywkk_UDU8T6YWjYV3EFa6A",
-					"file": "480P_600K_198276781.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/480P_600K_198276781.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 27558442,
-					"total": 27558442,
-					"elapsed": 149,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556648763,
-					"completed-time": 1556649665,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556649516
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=2092802989",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/15BC7D6C.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "vl_480_512k_6224171.mp4",
-					"uri": "https:\/\/cv.phncdn.com\/videos\/201210\/11\/6224171\/vl_480_512k_6224171.mp4?Qh9XVhT3_roLLhr6_mp1AkePcwDV7i3Tg9CPYsNlxohbUuRCyjPiAGOSKLO0F1T7A6JX_4YKy9GPwxmhplnkFAHdXRdhif-iVCOvtKRZT9Hjo61R29aygoB9m4ko35j8thM0do8VZq_vhec9_n24dNIUHio37vvmiSOUnMjRtI_quGKVVq5hwwU8qhUevfSsSpvR6A",
-					"file": "vl_480_512k_6224171.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/vl_480_512k_6224171.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 44524589,
-					"total": 44524589,
-					"elapsed": 2113,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556647503,
-					"completed-time": 1556649616,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556647508
-						}
-					]
-				},
-				"http": {
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/6061CF1A.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "480P_560K_5270705.mp4",
-					"uri": "https:\/\/ev.phncdn.com\/videos\/201207\/23\/5270705\/480P_560K_5270705.mp4?validfrom=1556643622&validto=1556650822&rate=124k&burst=1200k&hash=o8Pd7WvkIx7bIqvtI01%2FC1RlHJ0%3D",
-					"file": "480P_560K_5270705.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/480P_560K_5270705.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 44465663,
-					"total": 44465663,
-					"elapsed": 168,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556648750,
-					"completed-time": 1556649516,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556649351
-						}
-					]
-				},
-				"http": {
-					"referrer": "https:\/\/www.pornhub.com\/view_video.php?viewkey=ph58f77a3a6ec8c",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/533A7B42.cookie",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "480P_600K_113747891.mp4",
-					"uri": "https:\/\/ev.phncdn.com\/videos\/201704\/19\/113747891\/480P_600K_113747891.mp4?validfrom=1556643982&validto=1556651182&rate=126k&burst=1200k&hash=ylBJucuiaZHAYwjyqN5BNCpF%2F4c%3D",
-					"file": "480P_600K_113747891.mp4",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/480P_600K_113747891.mp4",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 160,
+					"group": 136,
 					"task": {
 						"plugin-name": "aria2",
 						"priority": 1
 					}
 				},
 				"progress": {
-					"complete": 0,
-					"total": 0,
-					"elapsed": 817,
+					"complete": 128897972,
+					"total": 128897972,
+					"elapsed": 100,
 					"uploaded": 0,
-					"percent": 0
+					"percent": 100
 				},
 				"log": {
-					"added-time": 1558613716,
-					"completed-time": 0,
+					"added-time": 1559333743,
+					"completed-time": 1559333844,
 					"messages": [
-						{
-							"string": "aria2: an unknown error occurred.",
-							"type": 3,
-							"time": 1558616301
-						}
 					]
 				},
 				"http": {
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
+					"referrer": "https:\/\/upload.ac\/imfcqiqv98bb",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/6795FF44.cookie",
 					"redirection-limit": 30
 				},
 				"proxy": {
@@ -20331,15 +20347,15 @@
 					"type": 0
 				},
 				"common": {
-					"name": "Young babe gets fucken in wet pussy. Amateur babe with perfect body gets cum on tits - XNXX.COM.mp4",
-					"uri": "https:\/\/cdn77-vid.xnxx-cdn.com\/IKhWB1Xei01LF7bx3MYr4w==,1558624452\/videos\/mp4\/4\/1\/8\/xvideos.com_41833d92b9129d2816afba5a254cb90f.mp4?ui=MTE0LjEyNC4xMzYuMTUtL3ZpZGVvLXNrNmIxYjcveW91bmdfYmFiZV9nZXRz",
-					"file": "Young babe gets fucken in wet pussy. Amateur babe with perfect body gets cum on tits - XNXX.COM.mp4",
+					"name": "[HorribleSubs] Dororo - 20 [480p].mkv",
+					"uri": "http:\/\/s12.upload.ac:182\/d\/jseotvkw52owlacvh7zdaskpu7zfn5rivgponxqflkh7o2hnzwe2pzcb\/[HorribleSubs]%20Dororo%20-%2020%20[480p].mkv",
+					"file": "[HorribleSubs] Dororo - 20 [480p].mkv",
 					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
 					"connect-timeout": 15,
 					"transmit-timeout": 30,
 					"retry-delay": 6,
 					"retry-limit": 99,
-					"retry-count": 5,
+					"retry-count": 0,
 					"max-connections": 4,
 					"max-upload-speed": 0,
 					"max-download-speed": 0,
@@ -20348,14 +20364,14 @@
 				"files": {
 					"collection": [
 						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Young babe gets fucken in wet pussy. Amateur babe with perfect body gets cum on tits - XNXX.COM.mp4",
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/[HorribleSubs] Dororo - 20 [480p].mkv",
 							"type": 0,
 							"state": 0,
 							"total": 0,
 							"complete": 0
 						},
 						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Young babe gets fucken in wet pussy. Amateur babe with perfect body gets cum on tits - XNXX.COM.mp4.aria2",
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/[HorribleSubs] Dororo - 20 [480p].mkv.aria2",
 							"type": 3,
 							"state": 0,
 							"total": 0,
