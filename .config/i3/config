@@ -159,15 +159,14 @@ bindsym $mod+r mode "resize"
 
 exec_always --no-startup-id feh --bg-fill $HOME/.config/wallpaper/mountain2.png
 
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 exec --no-startup-id compton -b &
 exec --no-startup-id nm-applet &
 exec --no-startup-id dunst &
-
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec --no-startup-id uget-gtk
-exec --no-startup-id uget-integrator-firefox
-exec --no-startup-id uget-integrator
-exec --no-startup-id megasync
+exec --no-startup-id uget-gtk &
+exec --no-startup-id uget-integrator-firefox &
+exec --no-startup-id uget-integrator &
+exec --no-startup-id megasync &
 exec --no-startup-id greenclip daemon
 
 #Not in Use
@@ -267,6 +266,8 @@ for_window [window_role="task_dialog"] floating enable
 for_window [window_role="Preferences"] floating enable
 for_window [window_type="dialog"] floating enable
 for_window [window_type="menu"] floating enable
+for_window [class="Xarchiver"] floating enable
+for_window [class="Firefox" instance="Browser"] floating enable
 
 bindsym $mod+Shift+Delete floating toggle
 bindsym $mod+Shift+Home move scratchpad

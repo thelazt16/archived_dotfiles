@@ -53,6 +53,74 @@
 					}
 				},
 				"progress": {
+					"complete": 643825664,
+					"total": 643825664,
+					"elapsed": 277,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559499305,
+					"completed-time": 1559499582,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/sgp.mirror.pkgbuild.com\/iso\/2019.06.01\/",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "archlinux-2019.06.01-x86_64.iso",
+					"uri": "https:\/\/sgp.mirror.pkgbuild.com\/iso\/2019.06.01\/archlinux-2019.06.01-x86_64.iso",
+					"file": "archlinux-2019.06.01-x86_64.iso",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/archlinux-2019.06.01-x86_64.iso",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted\/archlinux-2019.06.01-x86_64.iso.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
 					"complete": 1540358144,
 					"total": 1540358144,
 					"elapsed": 2148,

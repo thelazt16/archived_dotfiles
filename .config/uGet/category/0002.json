@@ -53,6 +53,765 @@
 					}
 				},
 				"progress": {
+					"complete": 127229277,
+					"total": 127229277,
+					"elapsed": 745,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497751,
+					"completed-time": 1559498497,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www16.zippyshare.com\/v\/sdMfpdyN\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/2755D89E.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E05.The.Whirly.Dirly.Conspiracy.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www16.zippyshare.com\/d\/sdMfpdyN\/103253\/Rick.and.Morty.S03E05.The.Whirly.Dirly.Conspiracy.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E05.The.Whirly.Dirly.Conspiracy.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E05.The.Whirly.Dirly.Conspiracy.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E05.The.Whirly.Dirly.Conspiracy.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 88696965,
+					"total": 88696965,
+					"elapsed": 112,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497977,
+					"completed-time": 1559498166,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www21.zippyshare.com\/v\/0iw0x8tI\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7835AD20.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E09.The.ABC's.of.Beth.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www21.zippyshare.com\/d\/0iw0x8tI\/225602\/Rick.and.Morty.S03E09.The.ABC%27s.of.Beth.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E09.The.ABC's.of.Beth.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E09.The.ABC's.of.Beth.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E09.The.ABC's.of.Beth.720p.WEB-DL.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 90580410,
+					"total": 90580410,
+					"elapsed": 82,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497989,
+					"completed-time": 1559498144,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www36.zippyshare.com\/v\/nFySUxzd\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1EDD81C7.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E10.The.Rickchurian.Mortydate.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www36.zippyshare.com\/d\/nFySUxzd\/813504\/Rick.and.Morty.S03E10.The.Rickchurian.Mortydate.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E10.The.Rickchurian.Mortydate.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E10.The.Rickchurian.Mortydate.720p.WEB-DL.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E10.The.Rickchurian.Mortydate.720p.WEB-DL.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 92393969,
+					"total": 92393969,
+					"elapsed": 122,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497938,
+					"completed-time": 1559498061,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www49.zippyshare.com\/v\/wwbJqjDi\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3C52FE4D.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E07.The.Ricklantis.Mixup.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www49.zippyshare.com\/d\/wwbJqjDi\/641041\/Rick.and.Morty.S03E07.The.Ricklantis.Mixup.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E07.The.Ricklantis.Mixup.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E07.The.Ricklantis.Mixup.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E07.The.Ricklantis.Mixup.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 99862643,
+					"total": 99862643,
+					"elapsed": 105,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497947,
+					"completed-time": 1559498053,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www55.zippyshare.com\/v\/xzLoW0SZ\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1870926B.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E08.Mortys.Mind.Blowers.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www55.zippyshare.com\/d\/xzLoW0SZ\/371105\/Rick.and.Morty.S03E08.Mortys.Mind.Blowers.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E08.Mortys.Mind.Blowers.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E08.Mortys.Mind.Blowers.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E08.Mortys.Mind.Blowers.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 101814231,
+					"total": 101814231,
+					"elapsed": 100,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497763,
+					"completed-time": 1559497863,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www63.zippyshare.com\/v\/FnxIUPyX\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/DF027FA.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E06.Rest.and.Ricklaxation.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www63.zippyshare.com\/d\/FnxIUPyX\/711116\/Rick.and.Morty.S03E06.Rest.and.Ricklaxation.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E06.Rest.and.Ricklaxation.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E06.Rest.and.Ricklaxation.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E06.Rest.and.Ricklaxation.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 108964752,
+					"total": 108964752,
+					"elapsed": 310,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497470,
+					"completed-time": 1559497780,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www15.zippyshare.com\/v\/9xICcxJq\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/1F0D8B4A.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E04.Vindicators.3.The.Return.of.Worldender.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www15.zippyshare.com\/d\/9xICcxJq\/70916\/Rick.and.Morty.S03E04.Vindicators.3.The.Return.of.Worldender.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E04.Vindicators.3.The.Return.of.Worldender.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E04.Vindicators.3.The.Return.of.Worldender.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E04.Vindicators.3.The.Return.of.Worldender.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 80373811,
+					"total": 80373811,
+					"elapsed": 191,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497421,
+					"completed-time": 1559497613,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www37.zippyshare.com\/v\/YaM6zaUq\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/56ECDC97.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E03.Pickle.Rick.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www37.zippyshare.com\/d\/YaM6zaUq\/313573\/Rick.and.Morty.S03E03.Pickle.Rick.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E03.Pickle.Rick.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E03.Pickle.Rick.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E03.Pickle.Rick.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 119493294,
+					"total": 119493294,
+					"elapsed": 749,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559496851,
+					"completed-time": 1559497600,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www60.zippyshare.com\/v\/DZS2fsxU\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/3459FDA0.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E01.The.Rickshank.Rickdemption.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www60.zippyshare.com\/d\/DZS2fsxU\/541853\/Rick.and.Morty.S03E01.The.Rickshank.Rickdemption.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E01.The.Rickshank.Rickdemption.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E01.The.Rickshank.Rickdemption.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E01.The.Rickshank.Rickdemption.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 98736856,
+					"total": 98736856,
+					"elapsed": 317,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559497016,
+					"completed-time": 1559497335,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www6.zippyshare.com\/v\/mS9fogVn\/file.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/450E8973.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Rick.and.Morty.S03E02.Rickmancing.the.Stone.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"uri": "https:\/\/www6.zippyshare.com\/d\/mS9fogVn\/578029\/Rick.and.Morty.S03E02.Rickmancing.the.Stone.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"file": "Rick.and.Morty.S03E02.Rickmancing.the.Stone.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E02.Rickmancing.the.Stone.720p.WEBRip.2CH.x265.HEVC-PSA.rar",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/Rick.and.Morty.S03E02.Rickmancing.the.Stone.720p.WEBRip.2CH.x265.HEVC-PSA.rar.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 13,
+					"total": 13,
+					"elapsed": 2,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559494179,
+					"completed-time": 1559494182,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/hidemyna.me\/en\/vpn\/",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/7A787E0B.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "hideme_501668093074113.zip",
+					"uri": "https:\/\/hidemyna.me\/api\/vpn_get_config.php",
+					"file": "hideme_501668093074113.zip",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/hideme_501668093074113.zip",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed\/hideme_501668093074113.zip.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
 					"complete": 219335283,
 					"total": 219335283,
 					"elapsed": 3163,

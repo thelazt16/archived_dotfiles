@@ -52,22 +52,91 @@
 		{
 			"data": {
 				"relation": {
-					"group": 3,
+					"group": 72,
 					"task": {
 						"plugin-name": "aria2",
 						"priority": 1
 					}
 				},
 				"progress": {
-					"complete": 49086464,
-					"total": 738830124,
-					"elapsed": 176,
+					"complete": 2068406005,
+					"total": 2068406005,
+					"elapsed": 5964,
 					"uploaded": 0,
-					"percent": 6
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1559484811,
+					"completed-time": 1559490776,
+					"messages": [
+					]
+				},
+				"http": {
+					"referrer": "https:\/\/www.javmec.com\/movie\/sod-create-sdde-494-ten-brothers-fathers-and-continuous-sex-life-in-the-morning-a-woman-who-is-full-of-men-is-busy-doing-housework-every-single-day-10.html",
+					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:67.0) Gecko\/20100101 Firefox\/67.0",
+					"cookie-file": "\/home\/dimmed\/.config\/uGet\/attachment\/78FEEC5A.cookie",
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Watch SOD Create SDDE-494 Ten Brothers & Fathers And Continuous Sex Life In The Morning A Woman Who Is Full Of Men Is Busy Doing Housework Every Single Day 10 - Japanese AV Porn on JAVMEC -720p.mp4",
+					"uri": "https:\/\/www1040.hlsmp4.com\/token=MC46Jc2LbtJyGzHrbbliNg\/1559499141\/0.0.0.0\/6\/c\/dc\/d175e52fa76fdbf2c82a069cccf01dcc-720p.mp4",
+					"file": "Watch SOD Create SDDE-494 Ten Brothers & Fathers And Continuous Sex Life In The Morning A Woman Who Is Full Of Men Is Busy Doing Housework Every Single Day 10 - Japanese AV Porn on JAVMEC -720p.mp4",
+					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 4,
+					"max-connections": 4,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Watch SOD Create SDDE-494 Ten Brothers & Fathers And Continuous Sex Life In The Morning A Woman Who Is Full Of Men Is Busy Doing Housework Every Single Day 10 - Japanese AV Porn on JAVMEC -720p.mp4",
+							"type": 0,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						},
+						{
+							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/Watch SOD Create SDDE-494 Ten Brothers & Fathers And Continuous Sex Life In The Morning A Woman Who Is Full Of Men Is Busy Doing Housework Every Single Day 10 - Japanese AV Porn on JAVMEC -720p.mp4.aria2",
+							"type": 3,
+							"state": 0,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "aria2",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 738830124,
+					"total": 738830124,
+					"elapsed": 904,
+					"uploaded": 0,
+					"percent": 100
 				},
 				"log": {
 					"added-time": 1559477435,
-					"completed-time": 0,
+					"completed-time": 1559482441,
 					"messages": [
 					]
 				},
@@ -89,7 +158,7 @@
 					"transmit-timeout": 30,
 					"retry-delay": 6,
 					"retry-limit": 99,
-					"retry-count": 0,
+					"retry-count": 2,
 					"max-connections": 4,
 					"max-upload-speed": 0,
 					"max-download-speed": 0,
@@ -20239,138 +20308,6 @@
 					"collection": [
 						{
 							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/v.mp4.7",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 16767359,
-					"total": 16767359,
-					"elapsed": 307,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556721009,
-					"completed-time": 1556721316,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556721021
-						}
-					]
-				},
-				"http": {
-					"referrer": "http:\/\/128.199.66.55\/bj-di-mobil-baju-23\/",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "v.mp4.2",
-					"uri": "https:\/\/str10.vidoza.net\/x4lfn2uswzzpvjumxa7uidqs6nhroxlipqtcystcg5eyr4stikjvdzh76iva\/v.mp4",
-					"file": "v.mp4.2",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/v.mp4.2",
-							"type": 0,
-							"state": 8,
-							"total": 0,
-							"complete": 0
-						}
-					]
-				}
-			},
-			"children": [
-			]
-		},
-		{
-			"data": {
-				"relation": {
-					"group": 72,
-					"task": {
-						"plugin-name": "curl",
-						"priority": 1
-					}
-				},
-				"progress": {
-					"complete": 2142697,
-					"total": 2142697,
-					"elapsed": 44,
-					"uploaded": 0,
-					"percent": 100
-				},
-				"log": {
-					"added-time": 1556721175,
-					"completed-time": 1556721219,
-					"messages": [
-						{
-							"string": "Resumable",
-							"type": 2,
-							"time": 1556721183
-						}
-					]
-				},
-				"http": {
-					"referrer": "http:\/\/128.199.66.55\/sma-pilih-toket-kanan-atau-kiri-yah-part-1\/",
-					"user-agent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/73.0.3683.103 Safari\/537.36",
-					"redirection-limit": 30
-				},
-				"proxy": {
-					"port": 80,
-					"type": 0
-				},
-				"common": {
-					"name": "v.mp4.6",
-					"uri": "https:\/\/str09.vidoza.net\/x4lfdaz4wzzpvjumxaseivqrv4r5ec3k33zajx7yih5mdlslmb63apstpzqq\/v.mp4",
-					"file": "v.mp4.6",
-					"folder": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-					"connect-timeout": 15,
-					"transmit-timeout": 30,
-					"retry-delay": 6,
-					"retry-limit": 99,
-					"retry-count": 0,
-					"max-connections": 4,
-					"max-upload-speed": 0,
-					"max-download-speed": 0,
-					"timestamp": 1
-				},
-				"files": {
-					"collection": [
-						{
-							"path": "\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted\/v.mp4.6",
 							"type": 0,
 							"state": 8,
 							"total": 0,

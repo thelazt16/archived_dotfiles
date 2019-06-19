@@ -1,17 +1,17 @@
 [global]
 monitor = 0
 follow = mouse
-geometry = "400x60-20+48"
+geometry = "400x60-70+48"
 indicate_hidden = yes
 shrink = yes
 separator_height = 1
 separator_color = frame
 padding = 24
 horizontal_padding = 24
-frame_width = 1
+frame_width = 0
 sort = no
 idle_threshold = 120
-font = mononoki Nerd Font 9
+font = mononoki Nerd Font 8
 line_height = 4
 markup = full
 format = "<b>%s</b>\n%b"
@@ -24,12 +24,13 @@ stack_duplicates = false
 hide_duplicate_count = yes
 show_indicators = no
 icon_position = right
-icon_folders = /usr/share/icons/Qogir-dark/16x16/status/:/usr/share/icons/Qogir-dark/16x16/devices/
-max_icon_size = 48
+icon_path = /usr/share/icons/Qogir-dark/scalable/status/:/usr/share/icons/Qogir-dark/scalable/devices/:/usr/share/icons/Qogir-dark/scalable/mimetypes:/usr/share/icons/Qogir-dark/scalable/places:/usr/share/icons/Qogir-dark/scalable/apps
+max_icon_size = 24
 sticky_history = yes
 history_length = 20
 browser = /usr/bin/firefox -new-tab
 always_run_script = true
+corner_radius = 5
 title = Dunst
 class = Dunst
 
@@ -41,24 +42,18 @@ class = Dunst
 
 [urgency_low]
 timeout = 2
-#background = "#141c21"
 background = "#1e2430"
-#foreground = "#93a1a1"
-foreground = "#FF8E0A"
-frame_color = "#FF8E0A"
+foreground = "#00ff01"
+frame_color = "#00ff01"
 
 [urgency_normal]
 timeout = 4
-#background = "#141c21"
 background = "#1e2430"
-#foreground = "#93a1a1"
-foreground = "#FF6A17"
-frame_color = "#FF6A17"
+foreground = "#f8ff00"
+frame_color = "#f8ff00"
 
 [urgency_critical]
 timeout = 8
-#background = "#141c21"
 background = "#1e2430"
-#foreground = "#93a1a1"
-foreground = "#EF212E"
-frame_color = "#EF212E"
+foreground = "#ff00a8"
+frame_color = "#ff00a8"

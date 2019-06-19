@@ -5,8 +5,8 @@
 		"Category": true,
 		"Summary": false,
 		"Banner": false,
-		"x": 312,
-		"y": 204,
+		"x": 338,
+		"y": 155,
 		"width": 715,
 		"height": 360,
 		"maximized": true,
@@ -114,9 +114,9 @@
 		"OnError": null
 	},
 	"FolderHistory": [
-		"\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
-		"\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
 		"\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Unsorted",
+		"\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Compressed",
+		"\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Video\/Unsorted",
 		"\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Programs",
 		"\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Music",
 		"\/mnt\/01D4747136A4BF40\/Libraries\/Downloads\/Organized Download\/Documents",
