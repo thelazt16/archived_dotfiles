@@ -5,7 +5,7 @@
     scrollbarcolor: #3b4252;
     foregroundcolor: #839496;
     foregroundcolorinverse: #1e2430;
-    selectioncolor: #145cff;
+    selectioncolor: #ff8e0a;
 
 
     font-size: 1px;
@@ -28,14 +28,14 @@
 
 #window {
     background-color: @backgroundcolor;
-    border-color: #145cff;
-    border: 5;
-    border-radius: 5px;
+    border-color: #ff8e0a;
+    border: 1;
+    border-radius: 2px;
 }
 
 #mainbox {
     border: 0;
-    padding: 10;
+    padding: 0;
     background-color: @backgroundcoloralternate;
 }
 
@@ -49,9 +49,10 @@
 #element.selected.normal {
     background-color: @selectioncolor;
     text-color: @foregroundcolorinverse;
-    border-radius: 5px;
-    border: 0 0 2 0;
-    border-colo5: @separatorcolor;
+    border-radius: 0px;
+
+    border: 0 0 1 0;
+    border-color: @separatorcolor;
 }
 
 #element.alternate.normal {
@@ -70,6 +71,7 @@
     background-color: @selectioncolor;
     text-color: @foregroundcolorinverse;
     border-radius: 0px;
+
     border: 0 0 1 0;
     border-color: @separatorcolor;
 }
@@ -93,13 +95,13 @@
 
 #scrollbar {
     border: 0;
-    width: 0px;
+    width: 8px;
     handle-color: @scrollbarcolor;
     handle-width: 8px;
     background-color: @backgroundcoloralternate;
 }
 
 #scrollbar handle {
-    border: 0px;
+    border: 1px;
     border-color: #ff0000;
 }
