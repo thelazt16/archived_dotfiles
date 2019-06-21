@@ -55,8 +55,6 @@ bspc config external_rules_command  ~/.config/bspwm/external_rules.sh
 
 ~/.config/polybar/launch.sh &
 
-~/.scripts/padding.sh &
-
 feh --bg-fill ~/.config/wallpaper/7pm.jpg &
 
 compton -b &
