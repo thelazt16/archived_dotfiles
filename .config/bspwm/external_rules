@@ -1,9 +1,0 @@
-#! /bin/sh
-
-if [ $(xprop -id $wid | grep WM_WINDOW_ROLE | awk -F '"' '{print $2}') == "quake" ]; then
-
-  echo "state=floating"
-  
-  fi
-
-fi
