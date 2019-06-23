@@ -1,0 +1,85 @@
+* {
+    backgroundcolor: #1e2430;
+    bg1: #1e2430;
+    backgroundcoloralternate: #aaaaaa;
+    scrollbarcolor: #3b4252;
+    foregroundcolor: #dddddd;
+    foregroundcolorinverse: #1e2430;
+    selectioncolor: #145cff;
+    border-color: @separatorcolor;
+    background-color: @backgroundcolor;
+    text-color: @foregroundcolor;
+}
+
+#prompt {
+    padding: 3;
+    background-color: @backgroundcolor;
+}
+
+#entry {
+    padding: 3;
+}
+
+#listview {
+    spacing: 3;
+    scrollbar: false;
+    margin: 2;
+    dynamic: true;
+
+}
+
+#window {
+    background-color: @backgroundcolor;
+    border-color: @selectioncolor;
+    border: 3;
+    border-radius: 0px;
+}
+
+#mainbox {
+    padding: 5;
+    background-color: @backgroundcolor;
+}
+
+#element {
+    padding: 8;
+    border-color: @separatorcolor;
+    background-color: @backgroundcolor;
+}
+
+#element.selected.normal {
+    background-color: @selectioncolor;
+    text-color: @foregroundcolorinverse;
+    border-radius: 3px;
+    border-color: @separatorcolor;
+}
+
+#element.alternate.normal {
+    background-color: @backgroundcolor;
+    border-radius: 3px;
+}
+
+#element.normal.active {
+    background-color: @backgroundcolor;
+    border-radius: 3px;
+}
+
+#element.alternate.active {
+    background-color: @backgroundcoloralternate;
+    text-color: @foregroundcolorinverse;
+    border-radius: 3px;
+    border-color: @separatorcolor;
+}
+
+#element.selected.active {
+    background-color: @selectioncolor;
+    text-color: @foregroundcolorinverse;
+    border-radius: 3px;
+    border-color: @separatorcolor;
+}
+
+#inputbar {
+    border: 0 solid 0 solid 1 solid 0 solid;
+    margin: 0;
+    spacing: 0;
+    border-color: @separatorcolor;
+}
