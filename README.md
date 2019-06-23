@@ -1,5 +1,4 @@
 ![Preview 1](https://raw.githubusercontent.com/thelazt16/dotfiles/master/preview/sc01.png)
-![Preview 2](https://raw.githubusercontent.com/thelazt16/dotfiles/master/preview/sc02.png)
 This is my current Arch Linux dotfiles, some of the configuration is made or modified by me from other greater being works, so all the credit goes to them.
 
 * Polybar : Made by me.
