@@ -1,0 +1,34 @@
+# configuration file for betterlockscreen
+
+#bg = #1e2430
+#bg-alt = #ffffff
+#fg = #ffffff
+#fg-alt = #1e2430
+#ac = #ffffff 
+#oc = #888888
+#em = #666666
+#wr = #ff0000
+#gr = #00ff01
+#ge = #00FFAB
+#bl = #145cff
+#rd = #ff0000
+#pk = #ff00a8
+#yl = #f8ff00
+#or = #ff5200
+#pp = #bf00f6
+
+insidecolor=00000000
+ringcolor=ffffffff
+keyhlcolor=ff5200ff
+bshlcolor=ff00a8ff
+separatorcolor=00000000
+insidevercolor=00000000
+insidewrongcolor=ffffff00
+ringvercolor=00ffabff
+ringwrongcolor=ff00a8ff
+verifcolor=ffffffff
+timecolor=ffffffff
+datecolor=ffffffff
+loginbox=00000000
+
+locktext='Type Password. Press Enter.'

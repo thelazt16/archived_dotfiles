@@ -1,7 +1,7 @@
-rofi.width:					15
+#rofi.width:				35
 rofi.show-icons:            true
 rofi.modi:                  drun,run,window,ssh
-rofi.lines:                 5
+rofi.lines:                 15
 rofi.line-padding:          5
 rofi.matching:              normal
 rofi.drun-match-fields		generic
