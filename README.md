@@ -7,7 +7,7 @@ Polybar module : `date`, `bspwm`, `title`, `temperature`, `cpu`, `pulseaudio`, `
 
 All module have different color on each `<ramp>` to make it more beautiful including the `label`
 
-`nordvpn` module = lef-click : `nordvpn c "Australia`", middle-click : `nordvpn status`, right-click : 'nordvpn disconnect'. This module need `nordvpn-bin` to work
+`nordvpn` module = lef-click : `nordvpn c "Australia`", middle-click : `nordvpn status`, right-click : 'nordvpn disconnect' . This module need `nordvpn-bin(AUR)` to work
 
 `network` module = connected : right-click | disconnected : left-click => open rofi-wifi-menu.sh in .scripts
 
