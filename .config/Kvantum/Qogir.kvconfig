@@ -8,21 +8,21 @@ attach_active_tab=true
 mirror_doc_tabs=true
 group_toolbar_buttons=false
 toolbar_item_spacing=1
-toolbar_interior_spacing=3
+toolbar_interior_spacing=2
 spread_progressbar=true
 composite=true
 menu_shadow_depth=7
 menu_separator_height=6
 tooltip_shadow_depth=6
-splitter_width=4
-scroll_width=9
+splitter_width=2
+scroll_width=4
 scroll_arrows=false
-scroll_min_extent=60
+scroll_min_extent=12
 slider_width=6
-slider_handle_width=18
-slider_handle_length=18
+slider_handle_width=9
+slider_handle_length=9
 center_toolbar_handle=true
-check_size=14
+check_size=12
 textless_progressbar=false
 progressbar_thickness=3font
 menubar_mouse_tracking=true
@@ -32,13 +32,13 @@ translucent_windows=true
 blurring=true
 popup_blurring=true
 vertical_spin_indicators=false
-spin_button_width=32
+spin_button_width=12
 fill_rubberband=false
 merge_menubar_with_toolbar=true
-small_icon_size=16
-large_icon_size=32
-button_icon_size=16
-toolbar_icon_size=22
+small_icon_size=10
+large_icon_size=14
+button_icon_size=12
+toolbar_icon_size=12
 combo_as_lineedit=true
 animate_states=true
 button_contents_shift=false
@@ -48,12 +48,12 @@ combo_focus_rect=true
 groupbox_top_label=true
 inline_spin_indicators=true
 joined_inactive_tabs=false
-layout_spacing=6
-layout_margin=9
+layout_spacing=1
+layout_margin=1
 scrollbar_in_view=true
 transient_scrollbar=true
 transient_groove=true
-submenu_overlap=3
+submenu_overlap=0
 tooltip_delay=-1
 tree_branch_line=true
 contrast=1.00
@@ -67,7 +67,7 @@ reduce_window_opacity=0
 respect_DE=true
 saturation=1.00
 scrollable_menu=true
-submenu_delay=250
+submenu_delay=false
 
 [GeneralColors]
 window.color=#fafbfccc
@@ -102,7 +102,7 @@ force_size_grip=true
 iconless_pushbutton=true
 iconless_menu=false
 disabled_icon_opacity=100
-lxqtmainmenu_iconsize=22
+lxqtmainmenu_iconsize=16
 normal_default_pushbutton=true
 single_top_toolbar=true
 tint_on_mouseover=0
@@ -235,10 +235,10 @@ frame=true
 interior=false
 frame.element=common
 interior.element=common
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 
 [LineEdit]
 inherits=PanelButtonCommand
@@ -253,7 +253,7 @@ indicator.element=arrow-down
 
 [IndicatorArrow]
 indicator.element=arrow
-indicator.size=9
+indicator.size=4
 
 [ToolboxTab]
 inherits=PanelButtonCommand
@@ -264,8 +264,8 @@ text.focus.color=#32343D
 [Tab]
 inherits=PanelButtonCommand
 interior.element=tab
-text.margin.left=8
-text.margin.right=8
+text.margin.left=4
+text.margin.right=4
 text.margin.top=2
 text.margin.bottom=2
 frame.element=tab
@@ -290,7 +290,7 @@ frame.right=4
 
 [TreeExpander]
 inherits=PanelButtonCommand
-indicator.size=12
+indicator.size=8
 indicator.element=tree
 
 [HeaderSection]
@@ -332,10 +332,10 @@ frame.expansion=0
 inherits=PanelButtonCommand
 frame.element=slider
 interior.element=slider
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 
 [SliderCursor]
 inherits=PanelButtonCommand
@@ -352,7 +352,7 @@ text.focus.color=#32343D
 text.press.color=white
 text.toggle.color=white
 text.bold=false
-frame.expansion=8
+frame.expansion=6
 
 [ProgressbarContents]
 inherits=PanelButtonCommand
@@ -371,8 +371,8 @@ frame.left=2
 frame.right=2
 text.margin.top=2
 text.margin.bottom=2
-text.margin.left=4
-text.margin.right=4
+text.margin.left=3
+text.margin.right=3
 text.normal.color=#5c616c
 text.focus.color=#32343D
 text.press.color=white
@@ -380,7 +380,7 @@ text.toggle.color=white
 frame.expansion=0
 
 [Splitter]
-indicator.size=48
+indicator.size=12
 
 [Scrollbar]
 inherits=PanelButtonCommand
@@ -391,13 +391,13 @@ indicator.size=10
 inherits=PanelButtonCommand
 frame.element=scrollbarslider
 interior=false
-frame.left=6
-frame.right=6
-frame.top=6
-frame.bottom=6
+frame.left=3
+frame.right=3
+frame.top=3
+frame.bottom=3
 indicator.element=grip
-indicator.size=13
-frame.expansion=48
+indicator.size=9
+frame.expansion=24
 
 [ScrollbarGroove]
 inherits=PanelButtonCommand
@@ -414,7 +414,7 @@ text.normal.color=#5c616c
 text.focus.color=white
 text.margin.top=1
 text.margin.bottom=1
-text.margin.left=15
+text.margin.left=10
 text.margin.right=5
 frame.top=3
 frame.bottom=3

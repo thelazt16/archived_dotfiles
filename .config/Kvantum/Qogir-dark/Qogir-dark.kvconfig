@@ -19,10 +19,10 @@ scroll_width=4
 scroll_arrows=false
 scroll_min_extent=12
 slider_width=6
-slider_handle_width=12
-slider_handle_length=12
+slider_handle_width=9
+slider_handle_length=9
 center_toolbar_handle=true
-check_size=14
+check_size=12
 textless_progressbar=false
 progressbar_thickness=3font
 menubar_mouse_tracking=true
@@ -135,8 +135,8 @@ text.margin.top=1
 text.margin.bottom=1
 text.margin.left=1
 text.margin.right=1
-min_width=+0.2font
-min_height=+0.2font
+min_width=+0.15font
+min_height=+0.15font
 frame.expansion=0
 
 [PanelButtonTool]
@@ -202,7 +202,7 @@ frame.top=1
 frame.bottom=1
 frame.left=1
 frame.right=1
-frame.patternsize=16
+frame.patternsize=12
 
 [GenericFrame]
 inherits=PanelButtonCommand
@@ -265,7 +265,7 @@ frame.right=4
 
 [TreeExpander]
 inherits=PanelButtonCommand
-indicator.size=12
+indicator.size=8
 indicator.element=tree
 
 [HeaderSection]
@@ -366,7 +366,7 @@ frame.top=4
 frame.bottom=4
 indicator.element=grip
 indicator.size=6
-frame.expansion=12
+frame.expansion=4
 
 [ScrollbarGroove]
 inherits=PanelButtonCommand
