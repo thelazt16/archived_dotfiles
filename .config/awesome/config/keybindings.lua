@@ -129,7 +129,7 @@ globalkeys = gears.table.join(
     -- ----- Launch Programs ----------
     awful.key({ modkey,           }, "Return", function () awful.spawn(terminal) end,
     {description = "open a terminal", group = "launcher"}),
-    awful.key({modkey,            }, "d", function () awful.spawn.with_shell("~/.scripts/rofi/launcher.sh") end,
+    awful.key({modkey,            }, "d", function () awful.spawn.with_shell("$HOME/.config/rofi/dracula/launcher.sh") end,
     {description = "open rofi laucher",group = "launcher"}),
     awful.key({                   },"Print", function () awful.spawn.with_shell("~/.scripts/scrot.sh") end,
     {description = "take a screenshot", group = "launcher"}),
