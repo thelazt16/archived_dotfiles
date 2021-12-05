@@ -1,1 +1,82 @@
-/usr/local/bin/takeshot
+#!/usr/bin/env bash
+
+## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+
+## Script to take screenshots with maim
+
+time=`date +%Y-%m-%d-%I-%M-%S`
+geometry=`xrandr | head -n1 | cut -d',' -f2 | tr -d '[:blank:],current'`
+dir="`xdg-user-dir PICTURES`/Screenshots"
+file="Screenshot_${time}_${geometry}.png"
+snip="Snips/Snip_${time}_${geometry}.png"
+filename="$dir/$file"
+snipname="$dir/$snip"
+
+# notify
+notify_user () {
+	if [[ -e "$dir/$file" ]] || [[ -e "$dir/$snip" ]]; then
+		dunstify -u low --replace=699 -i /usr/share/archcraft/icons/dunst/picture.png "Saved in $dir"
+	else
+		dunstify -u low --replace=699 -i /usr/share/archcraft/icons/dunst/picture.png "Screenshot Failed."
+	fi
+}
+
+# countdown
+countdown () {
+	for sec in `seq $1 -1 1`; do
+		dunstify -t 1000 --replace=699 -i /usr/share/archcraft/icons/dunst/timer.png "Taking shot in : $sec"
+		sleep 1
+	done
+}
+
+# take shots
+shotnow () {
+	flameshot screen -r -c --raw > "$filename"
+	notify_user
+}
+
+shot5 () {
+	countdown '5'
+	flameshot screen -r -d 1000 -c --raw > "$filename"
+	notify_user
+}
+
+shot10 () {
+	countdown '10'
+	flameshot screen -r -d 1000 -c --raw > "$filename"
+	notify_user
+}
+
+shotwin () {
+	maim -u -f png -i `xdotool getactivewindow` "$filename"
+	cat "$filename" | xclip -selection clipboard -t image/png -i
+	notify_user
+}
+
+shotarea () {
+	flameshot gui -d 500 --raw > "$snipname"
+	notify_user
+	# maim -u -f png -s -b 2 -c 0.35,0.55,0.85,0.25 -l "$filename"
+	# cat "$filename" | xclip -selection clipboard -t image/png -i
+}
+
+if [[ ! -d "$dir" ]]; then
+	mkdir -p "$dir"
+fi
+
+if [[ "$1" == "--now" ]]; then
+	shotnow
+elif [[ "$1" == "--in5" ]]; then
+	shot5
+elif [[ "$1" == "--in10" ]]; then
+	shot10
+elif [[ "$1" == "--win" ]]; then
+	shotwin
+elif [[ "$1" == "--area" ]]; then
+	shotarea
+else
+	echo -e "Available Options : --now --in5 --in10 --win --area"
+fi
+
+exit 0
