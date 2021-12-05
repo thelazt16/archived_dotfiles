@@ -1,0 +1,7 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, BackColour, OutlineColour, Bold, Italic, Alignment, BorderStyle, Outline, Shadow, MarginL, MarginR, MarginV
+Style: Default,Bubblegum Sans,24,&H00d6d6d6,&H00000000,&H00000000,0,0,2,1,1,0.5,20,20,40
