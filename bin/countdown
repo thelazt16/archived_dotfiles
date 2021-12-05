@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+if [ -z "$1" ]; then
+  count=5
+else
+  count="$1"
+fi
+
+for sec in `seq $count -1 1`; do
+  if [[ ! -z $2 ]]; then
+    message="$2";
+  else
+    message="Countdown";
+  fi
+  dunstify -t 1000 --replace=699 -i /usr/share/archcraft/icons/dunst/timer.png "$message in : $sec"
+  sleep 1
+done

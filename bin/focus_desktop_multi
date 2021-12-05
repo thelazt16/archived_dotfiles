@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+monitors=`bspc query -M`
+SAVEIFS=$IFS   # Save current IFS
+IFS=$'\n'      # Change IFS to new line
+monitor=($monitors) # split to array $names
+IFS=$SAVEIFS   # Restore IFS
+# Execute accordingly
+if [[ "$1" < 6 ]]; then
+  bspc desktop -f "${monitor[0]}":^"$1"
+else
+  let desktop="$1"-5
+  # dunstify "$desktop"
+  bspc desktop -f "${monitor[1]}":^"$desktop"
+fi

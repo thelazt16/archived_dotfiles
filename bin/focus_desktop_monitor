@@ -1,0 +1,24 @@
+#!/bin/bash
+monitor_names="$(bspc query -M focused --names)"    # get monitor names
+bspc monitor -f "$monitor_names"    #focus to the monitor
+desktops="$(bspc query -D -m focused --names)"    # get names of desktops
+readarray -t <<<$desktops
+if [ "$1" == "-1" ]; then 
+    bspc desktop -f "${MAPFILE[0]}"
+elif [ "$1" == "-2" ]; then 
+    bspc desktop -f "${MAPFILE[1]}"
+elif [ "$1" == "-3" ]; then 
+    bspc desktop -f "${MAPFILE[2]}"
+elif [ "$1" == "-4" ]; then 
+    bspc desktop -f "${MAPFILE[3]}"
+elif [ "$1" == "-5" ]; then 
+    bspc desktop -f "${MAPFILE[4]}"
+elif [ "$1" == "-6" ]; then 
+    bspc desktop -f "${MAPFILE[5]}"
+elif [ "$1" == "-7" ]; then 
+    bspc desktop -f "${MAPFILE[6]}"
+elif [ "$1" == "-8" ]; then 
+    bspc desktop -f "${MAPFILE[7]}"
+elif [ "$1" == "-9" ]; then 
+    bspc desktop -f "${MAPFILE[8]}"
+fi

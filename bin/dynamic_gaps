@@ -1,0 +1,5 @@
+# change inner gaps
+super + {_, shift +} g
+    { bspc config -d focused window_gap $(( $(bspc config -d focused window_gap) + 10 )), \
+    [ $(bspc config -d focused window_gap) -ge 10 ] && \
+    bspc config -d focused window_gap $(( $(bspc config -d focused window_gap) - 10 )) }
