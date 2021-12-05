@@ -1,0 +1,101 @@
+#!/bin/bash
+
+get_type() {
+  xprop_type=`xprop -id "$wid" | grep "WINDOW_TYPE"`
+  if [[ $xprop_type = *"DIALOG"* ]]; then
+    echo "dialog"
+  else
+    echo "normal"
+  fi
+}
+
+get_state() {
+  xprop_state=`xprop -id "$wid" | grep "_NET_WM_STATE"`
+  if [[ $xprop_state = *"MODAL"* ]]; then
+    echo "modal"
+  else
+    echo "normal"
+  fi
+}
+
+have_maxsize() {
+  xprop_maxsize=`xprop -id "$wid" | grep "program specified maximum size"`
+  $maxsize_w = `echo "$xprop_maxsize | awk -F ": " '{print $2}' | awk -F " by " '{print $2}'"`
+  if [[ $maxsize_w > 10000 || $xprop_maxsize = "" ]]; then
+    echo "no"
+  else
+    echo "yes"
+  fi
+}
+
+calc_rectangle() {
+  monitor=`xrandr --current | grep "$(bspc query -M -m focused --names)"`
+  if [[ $monitor = *"primary"* ]]; then
+    width=`echo "$monitor" | awk '{print $4}' | awk -F "+" '{print $1}' | awk -F "x" '{print $1}'`
+    height=`echo "$monitor" | awk '{print $4}' | awk -F "+" '{print $1}' | awk -F "x" '{print $2}'`
+  else
+    width=`echo "$monitor" | awk '{print $3}' | awk -F "+" '{print $1}' | awk -F "x" '{print $1}'`
+    height=`echo "$monitor" | awk '{print $3}' | awk -F "+" '{print $1}' | awk -F "x" '{print $2}'`
+  fi
+  x_offset=`expr $width \* 5 / 100`
+  y_offset=`expr $height \* 5 / 100`
+
+  new_width=`expr $width - $x_offset \* 2`
+  new_height=`expr $height - $y_offset \* 2`
+  new_rectangle="$new_width"x"$new_height"+"$(expr $x_offset + 1)"+"$(expr $y_offset + 1)"
+  echo "$new_rectangle"
+}
+
+# calc_rectangle
+wid=$1
+class=$2
+instance=$3
+consequences=$4
+title=$(xtitle "$wid")
+role=`xprop -id "$wid" | grep "WINDOW_ROLE" | awk -F " = " '{print $2}' | awk -F '"' '{print $2}'`
+type="$(get_type)"
+state="$(get_state)"
+have_size="$(have_maxsize)"
+
+# case "$type" in
+#   dialog)
+#     case "$state" in
+#       modal)
+#         echo "state=floating layer=above rectangle=$(calc_rectangle)"
+#       ;;
+#       normal)
+#         echo "state=floating layer=above"
+#       ;;
+#     esac
+#   ;;
+# esac
+
+case "$type" in
+  dialog)
+    case "$have_size" in
+      no)
+        echo "state=floating layer=above focus=on rectangle=$(calc_rectangle)"
+      ;;
+      yes)
+        echo "state=floating layer=above focus=on"
+      ;;
+    esac
+  ;;
+esac
+
+case "$class" in
+  smplayer)
+    case "$title" in
+      *"playlist"*)
+        echo "state=tiled"
+      ;;
+    esac
+  ;;
+  firefox)
+    case "$title" in
+      Picture-in-Picture)
+        echo "state=tiled layer=normal rectangle=$(calc_rectangle) split_ratio=0.25"
+      ;;
+    esac
+  ;;
+esac

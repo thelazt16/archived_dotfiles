@@ -1,0 +1,174 @@
+#!/bin/bash
+
+## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+
+## Environtment
+export PATH="${PATH}:$HOME/.config/bspwm/bin:$HOME/bin:$HOME/.bin"
+if [[ `xrandr -q | grep "HDMI2 connected"` ]]; then
+	xrandr --output eDP1 --primary --mode 1366x768 --rotate normal --output HDMI2 --mode 1920x1080 --rotate normal --left-of eDP1 
+else 
+	xrandr --output eDP1 --primary --mode 1366x768
+fi
+## Get colors from .Xresources -------------------------------#
+xrdb ~/.Xresources
+getcolors() {
+	FOREGROUND=$(xrdb -query | grep 'foreground:'| awk '{print $NF}')
+	BACKGROUND=$(xrdb -query | grep 'background:'| awk '{print $NF}')
+	BLACK=$(xrdb -query | grep 'color0:'| awk '{print $NF}')
+	RED=$(xrdb -query | grep 'color1:'| awk '{print $NF}')
+	GREEN=$(xrdb -query | grep 'color2:'| awk '{print $NF}')
+	YELLOW=$(xrdb -query | grep 'color3:'| awk '{print $NF}')
+	BLUE=$(xrdb -query | grep 'color4:'| awk '{print $NF}')
+	MAGENTA=$(xrdb -query | grep 'color5:'| awk '{print $NF}')
+	CYAN=$(xrdb -query | grep 'color6:'| awk '{print $NF}')
+	WHITE=$(xrdb -query | grep 'color7:'| awk '{print $NF}')
+}
+getcolors
+
+## Configurations --------------------------------------------#
+if [[ `xrandr -q | grep "HDMI2 connected"` ]]; then
+	bspc monitor HDMI2 -d 1 2 3 4 5
+	bspc monitor eDP1 -d 6 7 8 9
+	# workspaces() {
+	# name=1
+	# for monitor in `bspc query -M`; do
+	# 	if [[ "$name" = 1 ]]; then
+	# 		monitor_name="internal"
+	# 	elif [[ "$name" = 2 ]]; then
+	# 		monitor_name="external"
+	# 	else
+	# 		monitor_name="$name"
+	# 	fi
+	# 	#bspc monitor ${monitor} -n "$name" -d 'I' 'II' 'III' 'IV' 'V' 'VI' 'VII' 'VIII'
+	# 	bspc monitor ${monitor} -n "$monitor_name" -d 1 2 3 4 5 6 7 8 9
+	# done
+	# }
+else 
+	workspaces() {
+	name=1
+	for monitor in `bspc query -M`; do
+		#bspc monitor ${monitor} -n "$name" -d 'I' 'II' 'III' 'IV' 'V' 'VI' 'VII' 'VIII'
+		bspc monitor ${monitor} -n "$name" -d '' '' '' '' '' '' '' ''
+		let name++
+	done
+	}
+fi
+workspaces
+
+bspc config border_width 1
+bspc config window_gap 5
+bspc config split_ratio 0.50
+
+bspc config focused_border_color "$BLUE" 
+bspc config normal_border_color "$BACKGROUND"
+bspc config active_border_color "$MAGENTA"
+bspc config presel_feedback_color "$GREEN"
+
+bspc config borderless_monocle true
+bspc config gapless_monocle true
+bspc config paddingless_monocle true
+bspc config single_monocle true
+bspc config focus_follows_pointer true
+
+## Window rules ----------------------------------------------#
+
+# remove all rules first
+bspc rule -r *:*
+
+bspc rule -a Alacritty follow=on focus=on
+
+bspc rule -a alacritty-float state=floating follow=on focus=on layer=above
+bspc rule -a Pcmanfm state=floating follow=on focus=on layer=above
+bspc rule -a Onboard state=floating follow=on focus=on layer=above
+bspc rule -a Audacious state=floating follow=on focus=on layer=above
+bspc rule -a Firefox:Places state=floating follow=on focus=on layer=above
+bspc rule -a Viewnior state=floating follow=on focus=on layer=above
+bspc rule -a Nm-connection-editor state=floating follow=on focus=on layer=above
+bspc rule -a Conky state=floating manage=off
+bspc rule -a stalonetray state=floating manage=off
+bspc rule -a DropTerm state=floating sticky=on hidden=off focus=on
+bspc rule -a MEGAsync state=floating border=off
+bspc rule -a Uget-gtk state=floating border=off
+bspc rule -a smplayer split_ratio=0.8
+bspc rule -a qemu-system-x86_64 desktop='^9' focus=on
+bspc rule -a xfce-polkit state=floating follow=on focus=on layer=above
+
+# Personal Stuff
+bspc rule -a DropTerm state=floating sticky=on hidden=off
+
+bspc config external_rules_command ~/.config/bspwm/external_rules
+
+## Autostart -------------------------------------------------#
+
+# Kill if already running
+killall -9 xsettingsd sxhkd dunst ksuperkey xfce4-power-manager
+# Start nm-applet
+pgrep -x nm-applet > /dev/null || nm-applet &
+
+# # Start Redshift
+# pgrep -x redshift-gtk > /dev/null || redshift-gtk &
+
+# # Start Blueman
+# pgrep -x blueman-applet > /dev/null || blueman-applet &
+
+# Lauch notification daemon
+dunst \
+-geom "500x75-10+38" -frame_width "1" -font "Iosevka Custom 9" -shrink \
+-markup full -format "%s\n%b" - show_indicators true -icon_position left -mouse_left_click close -mouse_right_click do_action \
+-corner_radius 4 -max_icon_size 48\
+-word_wrap true -corner_radius 6 -format "%s\n%b" -max_icon_size 48 \
+-lb "$BACKGROUND" -lf "$FOREGROUND" -lfr "$BLUE" \
+-nb "$BACKGROUND" -nf "$FOREGROUND" -nfr "$BLUE" \
+-cb "$BACKGROUND" -cf "$RED" -cfr "$RED" &
+
+# Lauch xsettingsd daemon
+xsettingsd &
+
+# polkit agent
+if [[ ! `pidof xfce-polkit` ]]; then
+	/usr/lib/xfce-polkit/xfce-polkit &
+fi
+
+# Lauch keybindings daemon
+if [[ `xrandr -q | grep "HDMI2 connected"` ]]; then
+	sxhkd -c ~/.config/sxhkd/sxhkdrc_multi &
+else
+	sxhkd -c ~/.config/sxhkd/sxhkdrc &
+fi
+
+# Enable Super Keys For Menu
+# ksuperkey -e 'Super_L=Alt_L|F1' &
+# ksuperkey -e 'Super_R=Alt_L|F1' &
+
+# Enable power management
+xfce4-power-manager &
+
+# Fix cursor
+xsetroot -cursor_name left_ptr
+
+# Restore wallpaper
+bash $HOME/.fehbg
+
+# Start mpd
+exec mpd &
+
+# Megasync
+megasync &
+
+# Start xidlehook config for auto lock
+autolock &
+idle_autolock &
+
+# Start bspwm scripts
+bspcolors
+if [[ `xrandr -q | grep "HDMI2 connected"` ]]; then
+	bspbar_multi
+else
+	bspbar
+fi
+bspcomp
+bspfloat &
+bspc monitor -f HDMI2 &&
+bspc desktop -f 1 &
+
