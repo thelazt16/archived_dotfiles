@@ -1,9 +1,0 @@
-{
-    "Lua.diagnostics.disable": [
-        "undefined-global",
-        "lowercase-global"
-    ],
-    "Lua.diagnostics.globals": [
-        "mytextclock"
-    ]
-}
