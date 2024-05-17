@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-dunstify -i '/usr/share/archcraft/icons/dunst/clock.png' "$1"

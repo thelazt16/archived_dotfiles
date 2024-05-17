@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-xidlehook --timer 3600 "notification 'Shutting Down in 30 Minutes'" '' --timer 900 "notification 'Shutting Down in 15 Minutes'" "show notification 'Shutdown Canceled'" --timer 900 "countdown '10'" "notification 'Shutdown Canceled'" --timer 10 "shutdown now" ""
